@@ -1,0 +1,317 @@
+(kicad_pcb (version 20221018) (generator pcbnew)
+
+  (general
+    (thickness 1.6)
+  )
+
+  (paper "A4")
+  (layers
+    (0 "F.Cu" signal)
+    (31 "B.Cu" signal)
+    (32 "B.Adhes" user "B.Adhesive")
+    (33 "F.Adhes" user "F.Adhesive")
+    (34 "B.Paste" user)
+    (35 "F.Paste" user)
+    (36 "B.SilkS" user "B.Silkscreen")
+    (37 "F.SilkS" user "F.Silkscreen")
+    (38 "B.Mask" user)
+    (39 "F.Mask" user)
+    (40 "Dwgs.User" user "User.Drawings")
+    (41 "Cmts.User" user "User.Comments")
+    (42 "Eco1.User" user "User.Eco1")
+    (43 "Eco2.User" user "User.Eco2")
+    (44 "Edge.Cuts" user)
+    (45 "Margin" user)
+    (46 "B.CrtYd" user "B.Courtyard")
+    (47 "F.CrtYd" user "F.Courtyard")
+    (48 "B.Fab" user)
+    (49 "F.Fab" user)
+    (50 "User.1" user)
+    (51 "User.2" user)
+    (52 "User.3" user)
+    (53 "User.4" user)
+    (54 "User.5" user)
+    (55 "User.6" user)
+    (56 "User.7" user)
+    (57 "User.8" user)
+    (58 "User.9" user)
+  )
+
+  (setup
+    (pad_to_mask_clearance 0)
+    (pcbplotparams
+      (layerselection 0x0001020_7ffffffe)
+      (plot_on_all_layers_selection 0x0000000_00000000)
+      (disableapertmacros false)
+      (usegerberextensions false)
+      (usegerberattributes true)
+      (usegerberadvancedattributes true)
+      (creategerberjobfile false)
+      (dashed_line_dash_ratio 12.000000)
+      (dashed_line_gap_ratio 3.000000)
+      (svgprecision 4)
+      (plotframeref false)
+      (viasonmask false)
+      (mode 1)
+      (useauxorigin false)
+      (hpglpennumber 1)
+      (hpglpenspeed 20)
+      (hpglpendiameter 15.000000)
+      (dxfpolygonmode true)
+      (dxfimperialunits true)
+      (dxfusepcbnewfont true)
+      (psnegative false)
+      (psa4output false)
+      (plotreference false)
+      (plotvalue false)
+      (plotinvisibletext false)
+      (sketchpadsonfab false)
+      (subtractmaskfromsilk false)
+      (outputformat 4)
+      (mirror false)
+      (drillshape 0)
+      (scaleselection 1)
+      (outputdirectory "")
+    )
+  )
+
+  (net 0 "")
+
+  (gr_line (start 98.5 20) (end 98.5 48)
+    (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp 04e42a5c-04de-48cd-9832-cc3d6c685c29))
+  (gr_line (start 98.5 53.5) (end 98.5 65.5)
+    (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp 062eb624-f169-4f61-baad-15e83ef62e0c))
+  (gr_line (start 92 22.5) (end 162 22.5)
+    (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp 0d9eb9f4-ce84-4dc5-97d0-e193db199c06))
+  (gr_line (start 92 56) (end 162 56)
+    (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp 0eac096c-ff87-49c3-99fe-4ec36932eff9))
+  (gr_line (start 162 22.5) (end 98.5 22.5)
+    (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp 1012bffa-6249-454e-a013-6c7d7d255d84))
+  (gr_line (start 24 75) (end 24 103)
+    (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp 194406ab-eb86-498b-994e-1137fa3b7b6e))
+  (gr_line (start 87.5 22.5) (end 24 22.5)
+    (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp 1d8ee752-3bc8-4787-810b-c785f11c7a45))
+  (gr_line (start 17.5 161.5) (end 87.5 161.5)
+    (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp 2d8eaaeb-ec9c-43e7-9a6e-c46d1c2f9112))
+  (gr_line (start 24 159) (end 24 180.5)
+    (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp 4dc97b43-4b00-4fb6-bd9c-c7c06abf2dc6))
+  (gr_line (start 236.5 50.5) (end 173 50.5)
+    (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp 5311a3ff-70c7-4d21-a0d1-6ef829a05339))
+  (gr_line (start 173 126.5) (end 173 173.5)
+    (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp 58d6cc3a-975b-428e-825a-31da65d68b6d))
+  (gr_line (start 17.5 77.5) (end 87.5 77.5)
+    (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp 5a729dda-98ea-4a19-aebe-19906547b758))
+  (gr_line (start 173 48) (end 173 63)
+    (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp 5d71103e-1fda-4f12-9466-25e7eb4f15e6))
+  (gr_line (start 17.5 50) (end 87.5 50)
+    (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp 685305f9-8e6b-4b29-8d28-0e8f646c04c3))
+  (gr_line (start 98.5 71) (end 98.5 121.5)
+    (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp 6cb033f9-4b08-46cb-8e65-3960d5da00cf))
+  (gr_line (start 166.5 129) (end 236.5 129)
+    (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp 75c43460-6de7-435b-9c1d-4c447328e7c6))
+  (gr_line (start 24 20) (end 24 41.5)
+    (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp 782bd9f8-f358-4afa-b43f-91ce517f8cfb))
+  (gr_line (start 92 73.5) (end 162 73.5)
+    (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp 85f90706-305e-4008-b898-acc790423581))
+  (gr_line (start 236.5 94.5) (end 173 94.5)
+    (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp 8ea83f9e-3f86-4b8f-90da-c779b212c629))
+  (gr_line (start 166.5 115) (end 236.5 115)
+    (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp 9f4e2607-4571-4833-88cb-b811ead99eff))
+  (gr_line (start 162 56) (end 98.5 56)
+    (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp a423fb14-61ea-47e2-ac91-ca59d855021e))
+  (gr_line (start 236.5 71) (end 173 71)
+    (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp ac96b857-4666-449e-999c-a1ae7a8ce56d))
+  (gr_line (start 24 109) (end 24 153)
+    (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp ad2c8060-35f9-444c-ab71-848607fc3063))
+  (gr_line (start 173 92) (end 173 107)
+    (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp bb6ab8ad-0201-474b-a0bc-01ef05a46f29))
+  (gr_line (start 173 20) (end 173 41.5)
+    (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp bf3c318a-c162-4bbc-b22e-62246b043557))
+  (gr_line (start 166.5 71) (end 236.5 71)
+    (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp c038676b-98d7-49e6-b0e7-d3faf5225df5))
+  (gr_line (start 166.5 94.5) (end 236.5 94.5)
+    (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp c47c76f5-0e13-4408-a8cf-578d3091403f))
+  (gr_line (start 24 47.5) (end 24 69)
+    (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp c9720930-c4b4-41b5-bd50-0472350be66f))
+  (gr_line (start 173 68.5) (end 173 86.5)
+    (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp cdc4c486-535c-4950-9986-90aa55195332))
+  (gr_line (start 173 112.5) (end 173 121)
+    (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp d41155a0-0d13-46d2-be53-31378775db31))
+  (gr_line (start 162 73.5) (end 98.5 73.5)
+    (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp dde4956f-6543-4c3a-888d-dd8448ff5789))
+  (gr_line (start 17.5 111.5) (end 87.5 111.5)
+    (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp e16d24a9-dbc7-48a3-bb04-356fb2346841))
+  (gr_line (start 166.5 50.5) (end 236.5 50.5)
+    (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp e5a7ad90-8705-4c6a-aa19-92b21acc78dd))
+  (gr_line (start 17.5 22.5) (end 87.5 22.5)
+    (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp f02d3fa0-5ad1-4fa4-8034-162ef8709773))
+  (gr_line (start 166.5 22.5) (end 236.5 22.5)
+    (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp ffc22a6b-96af-4dbb-8c1c-0f82840014ae))
+  (gr_rect (start 15 12.5) (end 239.5 183)
+    (stroke (width 0.1) (type default)) (fill none) (layer "Edge.Cuts") (tstamp ab925ebf-a475-4eef-97e2-e757a2eb5adc))
+  (gr_text "KiCad Font, Unicode Blocks" (at 16.5 15.5) (layer "F.SilkS") (tstamp d6e1e20f-561d-401f-8c5d-00d901c96988)
+    (effects (font (size 1.5 1.5) (thickness 0.25) bold) (justify left bottom))
+  )
+  (gr_text_box "Number Forms\n\n		0	1	2	3	4	5	6	7	8	9	A	B	C	D	E	F\n\nU+215x	⅐	⅑	⅒	⅓	⅔	⅕	⅖	⅗	⅘	⅙	⅚	⅛	⅜	⅝	⅞	⅟\n\nU+216x	Ⅰ	Ⅱ	Ⅲ	Ⅳ	Ⅴ	Ⅵ	Ⅶ	Ⅷ	Ⅸ	Ⅹ	Ⅺ	Ⅻ	Ⅼ	Ⅽ	Ⅾ	Ⅿ\n\nU+217x	ⅰ	ⅱ	ⅲ	ⅳ	ⅴ	ⅵ	ⅶ	ⅷ	ⅸ	ⅹ	ⅺ	ⅻ	ⅼ	ⅽ	ⅾ	ⅿ\n\nU+218x	ↀ	ↁ	ↂ	Ↄ	ↄ	ↅ	ↆ	ↇ	ↈ	↉	↊	↋"
+    (start 165.5 88.5) (end 238 107.5) (layer "F.SilkS") (tstamp 092ee8e6-951f-4cc6-8a98-14ff9e3a49b2)
+      (effects (font (size 1 1) (thickness 0.15)) (justify left top))
+    (stroke (width 0.15) (type solid))  )
+  (gr_text_box "Superscripts and Subscripts\n\n		0	1	2	3	4	5	6	7	8	9	A	B	C	D	E	F\n\nU+207x	⁰	ⁱ			⁴	⁵	⁶	⁷	⁸	⁹	⁺	⁻	⁼	⁽	⁾	ⁿ\n\nU+208x	₀	₁	₂	₃	₄	₅	₆	₇	₈	₉	₊	₋	₌	₍	₎	\n\nU+209x	ₐ	ₑ	ₒ	ₓ	ₔ	ₕ	ₖ	ₗ	ₘ	ₙ	ₚ	ₛ	ₜ			"
+    (start 91 50) (end 163.5 66) (layer "F.SilkS") (tstamp 2427a9cf-8c87-4a80-b8c4-8ee136d6b315)
+      (effects (font (size 1 1) (thickness 0.15)) (justify left top))
+    (stroke (width 0.15) (type solid))  )
+  (gr_text_box "Basic Latin\n\n		0	1	2	3	4	5	6	7	8	9	A	B	C	D	E	F\n\nU+002x	SP	!	{dblquote}	#	$	%	&	'	(	)	*	+	,	-	.	/\n\nU+003x	0	1	2	3	4	5	6	7	8	9	:	;	<	=	>	?\n\nU+004x	@	A	B	C	D	E	F	G	H	I	J	K	L	M	N	O\n\nU+005x	P	Q	R	S	T	U	V	W	X	Y	Z	[	\\	]	^	_\n\nU+006x	`	a	b	c	d	e	f	g	h	i	j	k	l	m	n	o\n\nU+007x	p	q	r	s	t	u	v	w	x	y	z	{	|	}	~	DEL"
+    (start 16.5 16.5) (end 89 42.5) (layer "F.SilkS") (tstamp 2fe74e0c-0993-42b5-af37-fcf52d555b97)
+      (effects (font (size 1 1) (thickness 0.15)) (justify left top))
+    (stroke (width 0.15) (type solid))  )
+  (gr_text_box "Latin Extended-D\n\n		0	1	2	3	4	5	6	7	8	9	A	B	C	D	E	F\n\nU+A72x	꜠	꜡	Ꜣ	ꜣ	Ꜥ	ꜥ	Ꜧ	ꜧ	Ꜩ	ꜩ	Ꜫ	ꜫ	Ꜭ	ꜭ	Ꜯ	ꜯ\n\nU+A73x	ꜰ	ꜱ	Ꜳ	ꜳ	Ꜵ	ꜵ	Ꜷ	ꜷ	Ꜹ	ꜹ	Ꜻ	ꜻ	Ꜽ	ꜽ	Ꜿ	ꜿ\n\nU+A74x	Ꝁ	ꝁ	Ꝃ	ꝃ	Ꝅ	ꝅ	Ꝇ	ꝇ	Ꝉ	ꝉ	Ꝋ	ꝋ	Ꝍ	ꝍ	Ꝏ	ꝏ\n\nU+A75x	Ꝑ	ꝑ	Ꝓ	ꝓ	Ꝕ	ꝕ	Ꝗ	ꝗ	Ꝙ	ꝙ	Ꝛ	ꝛ	Ꝝ	ꝝ	Ꝟ	ꝟ\n\nU+A76x	Ꝡ	ꝡ	Ꝣ	ꝣ	Ꝥ	ꝥ	Ꝧ	ꝧ	Ꝩ	ꝩ	Ꝫ	ꝫ	Ꝭ	ꝭ	Ꝯ	ꝯ\n\nU+A77x	ꝰ	ꝱ	ꝲ	ꝳ	ꝴ	ꝵ	ꝶ	ꝷ	ꝸ	Ꝺ	ꝺ	Ꝼ	ꝼ	Ᵹ	Ꝿ	ꝿ\n\nU+A78x	Ꞁ	ꞁ	Ꞃ	ꞃ	Ꞅ	ꞅ	Ꞇ	ꞇ	ꞈ	꞉	꞊	Ꞌ	ꞌ	Ɥ	ꞎ	ꞏ\n\nU+A79x	Ꞑ	ꞑ	Ꞓ	ꞓ	ꞔ	ꞕ	Ꞗ	ꞗ	Ꞙ	ꞙ	Ꞛ	ꞛ	Ꞝ	ꞝ	Ꞟ	ꞟ\n\nU+A7Ax	Ꞡ	ꞡ	Ꞣ	ꞣ	Ꞥ	ꞥ	Ꞧ	ꞧ	Ꞩ	ꞩ	Ɦ	Ɜ	Ɡ	Ɬ	Ɪ	ꞯ\n\nU+A7Bx	Ʞ	Ʇ	Ʝ	Ꭓ	Ꞵ	ꞵ	Ꞷ	ꞷ	Ꞹ	ꞹ	Ꞻ	ꞻ	Ꞽ	ꞽ	Ꞿ	ꞿ\n\nU+A7Cx	Ꟁ	ꟁ	Ꟃ	ꟃ	Ꞔ	Ʂ	Ᶎ	Ꟈ	ꟈ	Ꟊ	ꟊ					\n\nU+A7Dx	Ꟑ	ꟑ		ꟓ		ꟕ	Ꟗ	ꟗ	Ꟙ	ꟙ						\n\nU+A7Ex																\n\nU+A7Fx			ꟲ	ꟳ	ꟴ	Ꟶ	ꟶ	ꟷ	ꟸ	ꟹ	ꟺ	ꟻ	ꟼ	ꟽ	ꟾ	ꟿ"
+    (start 165.5 123) (end 238 174.5) (layer "F.SilkS") (tstamp 410063a5-28b1-4e3a-b823-50f89c1a9db4)
+      (effects (font (size 1 1) (thickness 0.15)) (justify left top))
+    (stroke (width 0.15) (type solid))  )
+  (gr_text_box "IPA Extensions\n\n		0	1	2	3	4	5	6	7	8	9	A	B	C	D	E	F\n\nU+025x	ɐ	ɑ	ɒ	ɓ	ɔ	ɕ	ɖ	ɗ	ɘ	ə	ɚ	ɛ	ɜ	ɝ	ɞ	ɟ\n\nU+026x	ɠ	ɡ	ɢ	ɣ	ɤ	ɥ	ɦ	ɧ	ɨ	ɩ	ɪ	ɫ	ɬ	ɭ	ɮ	ɯ\n\nU+027x	ɰ	ɱ	ɲ	ɳ	ɴ	ɵ	ɶ	ɷ	ɸ	ɹ	ɺ	ɻ	ɼ	ɽ	ɾ	ɿ\n\nU+028x	ʀ	ʁ	ʂ	ʃ	ʄ	ʅ	ʆ	ʇ	ʈ	ʉ	ʊ	ʋ	ʌ	ʍ	ʎ	ʏ\n\nU+029x	ʐ	ʑ	ʒ	ʓ	ʔ	ʕ	ʖ	ʗ	ʘ	ʙ	ʚ	ʛ	ʜ	ʝ	ʞ	ʟ\n\nU+02Ax	ʠ	ʡ	ʢ	ʣ	ʤ	ʥ	ʦ	ʧ	ʨ	ʩ	ʪ	ʫ	ʬ	ʭ	ʮ	ʯ"
+    (start 16.5 155.5) (end 89 181.5) (layer "F.SilkS") (tstamp 4d29987c-b16e-42c1-93a1-86c000e7bb43)
+      (effects (font (size 1 1) (thickness 0.15)) (justify left top))
+    (stroke (width 0.15) (type solid))  )
+  (gr_text_box "Latin Extended-B\n\n		0	1	2	3	4	5	6	7	8	9	A	B	C	D	E	F\n\nU+018x	ƀ	Ɓ	Ƃ	ƃ	Ƅ	ƅ	Ɔ	Ƈ	ƈ	Ɖ	Ɗ	Ƌ	ƌ	ƍ	Ǝ	Ə\n\nU+019x	Ɛ	Ƒ	ƒ	Ɠ	Ɣ	ƕ	Ɩ	Ɨ	Ƙ	ƙ	ƚ	ƛ	Ɯ	Ɲ	ƞ	Ɵ\n\nU+01Ax	Ơ	ơ	Ƣ	ƣ	Ƥ	ƥ	Ʀ	Ƨ	ƨ	Ʃ	ƪ	ƫ	Ƭ	ƭ	Ʈ	Ư\n\nU+01Bx	ư	Ʊ	Ʋ	Ƴ	ƴ	Ƶ	ƶ	Ʒ	Ƹ	ƹ	ƺ	ƻ	Ƽ	ƽ	ƾ	ƿ\n\nU+01Cx	ǀ	ǁ	ǂ	ǃ	Ǆ	ǅ	ǆ	Ǉ	ǈ	ǉ	Ǌ	ǋ	ǌ	Ǎ	ǎ	Ǐ\n\nU+01Dx	ǐ	Ǒ	ǒ	Ǔ	ǔ	Ǖ	ǖ	Ǘ	ǘ	Ǚ	ǚ	Ǜ	ǜ	ǝ	Ǟ	ǟ\n\nU+01Ex	Ǡ	ǡ	Ǣ	ǣ	Ǥ	ǥ	Ǧ	ǧ	Ǩ	ǩ	Ǫ	ǫ	Ǭ	ǭ	Ǯ	ǯ\n\nU+01Fx	ǰ	Ǳ	ǲ	ǳ	Ǵ	ǵ	Ƕ	Ƿ	Ǹ	ǹ	Ǻ	ǻ	Ǽ	ǽ	Ǿ	ǿ\n\nU+020x	Ȁ	ȁ	Ȃ	ȃ	Ȅ	ȅ	Ȇ	ȇ	Ȉ	ȉ	Ȋ	ȋ	Ȍ	ȍ	Ȏ	ȏ\n\nU+021x	Ȑ	ȑ	Ȓ	ȓ	Ȕ	ȕ	Ȗ	ȗ	Ș	ș	Ț	ț	Ȝ	ȝ	Ȟ	ȟ\n\nU+022x	Ƞ	ȡ	Ȣ	ȣ	Ȥ	ȥ	Ȧ	ȧ	Ȩ	ȩ	Ȫ	ȫ	Ȭ	ȭ	Ȯ	ȯ\n\nU+023x	Ȱ	ȱ	Ȳ	ȳ	ȴ	ȵ	ȶ	ȷ	ȸ	ȹ	Ⱥ	Ȼ	ȼ	Ƚ	Ⱦ	ȿ\n\nU+024x	ɀ	Ɂ	ɂ	Ƀ	Ʉ	Ʌ	Ɇ	ɇ	Ɉ	ɉ	Ɋ	ɋ	Ɍ	ɍ	Ɏ	ɏ"
+    (start 16.5 105.5) (end 89 154) (layer "F.SilkS") (tstamp 63463b25-f814-497a-a043-f6d8992dc5bb)
+      (effects (font (size 1 1) (thickness 0.15)) (justify left top))
+    (stroke (width 0.15) (type solid))  )
+  (gr_text_box "Halfwidth and Fullwidth Forms\n\n		0	1	2	3	4	5	6	7	8	9	A	B	C	D	E	F\n\nU+FF0x		！	＂	＃	＄	％	＆	＇	（	）	＊	＋	，	－	．	／\n\nU+FF1x	０	１	２	３	４	５	６	７	８	９	：	；	＜	＝	＞	？\n\nU+FF2x	＠	Ａ	Ｂ	Ｃ	Ｄ	Ｅ	Ｆ	Ｇ	Ｈ	Ｉ	Ｊ	Ｋ	Ｌ	Ｍ	Ｎ	Ｏ\n\nU+FF3x	Ｐ	Ｑ	Ｒ	Ｓ	Ｔ	Ｕ	Ｖ	Ｗ	Ｘ	Ｙ	Ｚ	［	＼	］	＾	＿\n\nU+FF4x	｀	ａ	ｂ	ｃ	ｄ	ｅ	ｆ	ｇ	ｈ	ｉ	ｊ	ｋ	ｌ	ｍ	ｎ	ｏ\n\nU+FF5x	ｐ	ｑ	ｒ	ｓ	ｔ	ｕ	ｖ	ｗ	ｘ	ｙ	ｚ	｛	｜	｝	～	｟\n\nU+FF6x	｠	｡	｢	｣	､	･	ｦ	ｧ	ｨ	ｩ	ｪ	ｫ	ｬ	ｭ	ｮ	ｯ\n\nU+FF7x	ｰ	ｱ	ｲ	ｳ	ｴ	ｵ	ｶ	ｷ	ｸ	ｹ	ｺ	ｻ	ｼ	ｽ	ｾ	ｿ\n\nU+FF8x	ﾀ	ﾁ	ﾂ	ﾃ	ﾄ	ﾅ	ﾆ	ﾇ	ﾈ	ﾉ	ﾊ	ﾋ	ﾌ	ﾍ	ﾎ	ﾏ\n\nU+FF9x	ﾐ	ﾑ	ﾒ	ﾓ	ﾔ	ﾕ	ﾖ	ﾗ	ﾘ	ﾙ	ﾚ	ﾛ	ﾜ	ﾝ	ﾞ	ﾟ\n\nU+FFAx	HF	ﾡ	ﾢ	ﾣ	ﾤ	ﾥ	ﾦ	ﾧ	ﾨ	ﾩ	ﾪ	ﾫ	ﾬ	ﾭ	ﾮ	ﾯ\n\nU+FFBx	ﾰ	ﾱ	ﾲ	ﾳ	ﾴ	ﾵ	ﾶ	ﾷ	ﾸ	ﾹ	ﾺ	ﾻ	ﾼ	ﾽ	ﾾ	\n\nU+FFCx			ￂ	ￃ	ￄ	ￅ	ￆ	ￇ			ￊ	ￋ	ￌ	ￍ	ￎ	ￏ\n\nU+FFDx			ￒ	ￓ	ￔ	ￕ	ￖ	ￗ			ￚ	ￛ	ￜ			\n\nU+FFEx	￠	￡	￢	￣	￤	￥	￦		￨	￩	￪	￫	￬	￭	￮	"
+    (start 91 67.5) (end 163.5 122) (layer "F.SilkS") (tstamp 79b1b5f2-619a-47f6-badf-99d10336121d)
+      (effects (font (size 1 1) (thickness 0.15)) (justify left top))
+    (stroke (width 0.15) (type solid))  )
+  (gr_text_box "Phonetic Extensions\n\n		0	1	2	3	4	5	6	7	8	9	A	B	C	D	E	F\n\nU+1D0x	ᴀ	ᴁ	ᴂ	ᴃ	ᴄ	ᴅ	ᴆ	ᴇ	ᴈ	ᴉ	ᴊ	ᴋ	ᴌ	ᴍ	ᴎ	ᴏ\n\nU+1D1x	ᴐ	ᴑ	ᴒ	ᴓ	ᴔ	ᴕ	ᴖ	ᴗ	ᴘ	ᴙ	ᴚ	ᴛ	ᴜ	ᴝ	ᴞ	ᴟ\n\nU+1D2x	ᴠ	ᴡ	ᴢ	ᴣ	ᴤ	ᴥ	ᴦ	ᴧ	ᴨ	ᴩ	ᴪ	ᴫ	ᴬ	ᴭ	ᴮ	ᴯ\n\nU+1D3x	ᴰ	ᴱ	ᴲ	ᴳ	ᴴ	ᴵ	ᴶ	ᴷ	ᴸ	ᴹ	ᴺ	ᴻ	ᴼ	ᴽ	ᴾ	ᴿ\n\nU+1D4x	ᵀ	ᵁ	ᵂ	ᵃ	ᵄ	ᵅ	ᵆ	ᵇ	ᵈ	ᵉ	ᵊ	ᵋ	ᵌ	ᵍ	ᵎ	ᵏ\n\nU+1D5x	ᵐ	ᵑ	ᵒ	ᵓ	ᵔ	ᵕ	ᵖ	ᵗ	ᵘ	ᵙ	ᵚ	ᵛ	ᵜ	ᵝ	ᵞ	ᵟ\n\nU+1D6x	ᵠ	ᵡ	ᵢ	ᵣ	ᵤ	ᵥ	ᵦ	ᵧ	ᵨ	ᵩ	ᵪ	ᵫ	ᵬ	ᵭ	ᵮ	ᵯ\n\nU+1D7x	ᵰ	ᵱ	ᵲ	ᵳ	ᵴ	ᵵ	ᵶ	ᵷ	ᵸ	ᵹ	ᵺ	ᵻ	ᵼ	ᵽ	ᵾ	ᵿ"
+    (start 91 16.5) (end 163.5 48.5) (layer "F.SilkS") (tstamp 921f7b57-d049-4279-9356-f88656274328)
+      (effects (font (size 1 1) (thickness 0.15)) (justify left top))
+    (stroke (width 0.15) (type solid))  )
+  (gr_text_box "Spacing Modifier Letters\n\n		0	1	2	3	4	5	6	7	8	9	A	B	C	D	E	F\n\nU+02Bx	ʰ	ʱ	ʲ	ʳ	ʴ	ʵ	ʶ	ʷ	ʸ	ʹ	ʺ	ʻ	ʼ	ʽ	ʾ	ʿ\n\nU+02Cx	ˀ	ˁ	˂	˃	˄	˅	ˆ	ˇ	ˈ	ˉ	ˊ	ˋ	ˌ	ˍ	ˎ	ˏ\n\nU+02Dx	ː	ˑ	˒	˓	˔	˕	˖	˗	˘	˙	˚	˛	˜	˝	˞	˟\n\nU+02Ex	ˠ	ˡ	ˢ	ˣ	ˤ	˥	˦	˧	˨	˩	˪	˫	ˬ	˭	ˮ	˯\n\nU+02Fx	˰	˱	˲	˳	˴	˵	˶	˷	˸	˹	˺	˻	˼	˽	˾	˿"
+    (start 165.5 16.5) (end 238 42.5) (layer "F.SilkS") (tstamp a68422d7-5e8a-49ca-80e5-82325b4775c7)
+      (effects (font (size 1 1) (thickness 0.15)) (justify left top))
+    (stroke (width 0.15) (type solid))  )
+  (gr_text_box "Latin1 Supplement\n\n		0	1	2	3	4	5	6	7	8	9	A	B	C	D	E	F\n\nU+00Ax	NSP	¡	¢	£	¤	¥	¦	§	¨	©	ª	«	¬	SHY	®	¯\n\nU+00Bx	°	±	²	³	'	µ	¶	·	¸	¹	º	»	¼	½	¾	¿\n\nU+00Cx	À	Á	Â	Ã	Ä	Å	Æ	Ç	È	É	Ê	Ë	Ì	Í	Î	Ï\n\nU+00Dx	Ð	Ñ	Ò	Ó	Ô	Õ	Ö	×	Ø	Ù	Ú	Û	Ü	Ý	Þ	ß\n\nU+00Ex	à	á	â	ã	ä	å	æ	ç	è	é	ê	ë	ì	í	î	ï\n\nU+00Fx	ð	ñ	ò	ó	ô	õ	ö	÷	ø	ù	ú	û	ü	ý	þ	ÿ"
+    (start 16.5 44) (end 89 70) (layer "F.SilkS") (tstamp ad176a60-58b9-4a61-9713-512ca8f18d7a)
+      (effects (font (size 1 1) (thickness 0.15)) (justify left top))
+    (stroke (width 0.15) (type solid))  )
+  (gr_text_box "Latin Extended-A\n\n		0	1	2	3	4	5	6	7	8	9	A	B	C	D	E	F\n\nU+010x	Ā	ā	Ă	ă	Ą	ą	Ć	ć	Ĉ	ĉ	Ċ	ċ	Č	č	Ď	ď\n\nU+011x	Đ	đ	Ē	ē	Ĕ	ĕ	Ė	ė	Ę	ę	Ě	ě	Ĝ	ĝ	Ğ	ğ\n\nU+012x	Ġ	ġ	Ģ	ģ	Ĥ	ĥ	Ħ	ħ	Ĩ	ĩ	Ī	ī	Ĭ	ĭ	Į	į\n\nU+013x	İ	ı	Ĳ	ĳ	Ĵ	ĵ	Ķ	ķ	ĸ	Ĺ	ĺ	Ļ	ļ	Ľ	ľ	Ŀ\n\nU+014x	ŀ	Ł	ł	Ń	ń	Ņ	ņ	Ň	ň	ŉ	Ŋ	ŋ	Ō	ō	Ŏ	ŏ\n\nU+015x	Ő	ő	Œ	œ	Ŕ	ŕ	Ŗ	ŗ	Ř	ř	Ś	ś	Ŝ	ŝ	Ş	ş\n\nU+016x	Š	š	Ţ	ţ	Ť	ť	Ŧ	ŧ	Ũ	ũ	Ū	ū	Ŭ	ŭ	Ů	ů\n\nU+017x	Ű	ű	Ų	ų	Ŵ	ŵ	Ŷ	ŷ	Ÿ	Ź	ź	Ż	ż	Ž	ž	ſ"
+    (start 16.5 71.5) (end 89 104) (layer "F.SilkS") (tstamp bc7e162c-eb5e-451a-b161-31838bdc4e42)
+      (effects (font (size 1 1) (thickness 0.15)) (justify left top))
+    (stroke (width 0.15) (type solid))  )
+  (gr_text_box "Letterlike Symbols\n\n		0	1	2	3	4	5	6	7	8	9	A	B	C	D	E	F\n\nU+210x	℀	℁	ℂ	℃	℄	℅	℆	ℇ	℈	℉	ℊ	ℋ	ℌ	ℍ	ℎ	ℏ\n\nU+211x	ℐ	ℑ	ℒ	ℓ	℔	ℕ	№	℗	℘	ℙ	ℚ	ℛ	ℜ	ℝ	℞	℟\n\nU+212x	℠	℡	™	℣	ℤ	℥	Ω	℧	ℨ	℩	K	Å	ℬ	ℭ	℮	ℯ\n\nU+213x	ℰ	ℱ	Ⅎ	ℳ	ℴ	ℵ	ℶ	ℷ	ℸ	ℹ	℺	℻	ℼ	ℽ	ℾ	ℿ\n\nU+214x	⅀	⅁	⅂	⅃	⅄	ⅅ	ⅆ	ⅇ	ⅈ	ⅉ	⅊	⅋	⅌	⅍	ⅎ	⅏"
+    (start 165.5 65) (end 238 87) (layer "F.SilkS") (tstamp ce973893-65bc-4798-b2de-be70818c4f13)
+      (effects (font (size 1 1) (thickness 0.15)) (justify left top))
+    (stroke (width 0.15) (type solid))  )
+  (gr_text_box "Latin Extended-C\n\n		0	1	2	3	4	5	6	7	8	9	A	B	C	D	E	F\n\nU+2C6x	Ⱡ	ⱡ	Ɫ	Ᵽ	Ɽ	ⱥ	ⱦ	Ⱨ	ⱨ	Ⱪ	ⱪ	Ⱬ	ⱬ	Ɑ	Ɱ	Ɐ\n\nU+2C7x	Ɒ	ⱱ	Ⱳ	ⱳ	ⱴ	Ⱶ	ⱶ	ⱷ	ⱸ	ⱹ	ⱺ	ⱻ	ⱼ	ⱽ	Ȿ	Ɀ"
+    (start 165.5 109) (end 238 121.5) (layer "F.SilkS") (tstamp f4a90345-01fd-44d9-afc1-96225a116f8b)
+      (effects (font (size 1 1) (thickness 0.15)) (justify left top))
+    (stroke (width 0.15) (type solid))  )
+  (gr_text_box "Phonetic Extensions Supplement\n\n		0	1	2	3	4	5	6	7	8	9	A	B	C	D	E	F\n\nU+1D8x	ᶀ	ᶁ	ᶂ	ᶃ	ᶄ	ᶅ	ᶆ	ᶇ	ᶈ	ᶉ	ᶊ	ᶋ	ᶌ	ᶍ	ᶎ	ᶏ\n\nU+1D9x	ᶐ	ᶑ	ᶒ	ᶓ	ᶔ	ᶕ	ᶖ	ᶗ	ᶘ	ᶙ	ᶚ	ᶛ	ᶜ	ᶝ	ᶞ	ᶟ\n\nU+1DAx	ᶠ	ᶡ	ᶢ	ᶣ	ᶤ	ᶥ	ᶦ	ᶧ	ᶨ	ᶩ	ᶪ	ᶫ	ᶬ	ᶭ	ᶮ	ᶯ\n\nU+1DBx	ᶰ	ᶱ	ᶲ	ᶳ	ᶴ	ᶵ	ᶶ	ᶷ	ᶸ	ᶹ	ᶺ	ᶻ	ᶼ	ᶽ	ᶾ	ᶿ"
+    (start 165.5 44.5) (end 238 63.5) (layer "F.SilkS") (tstamp fabdb57e-7a16-404f-b668-f0786c252e00)
+      (effects (font (size 1 1) (thickness 0.15)) (justify left top))
+    (stroke (width 0.15) (type solid))  )
+
+  (group "" (id 10d16f79-7624-48bf-b5de-ba168742578a)
+    (members
+      685305f9-8e6b-4b29-8d28-0e8f646c04c3
+      ad176a60-58b9-4a61-9713-512ca8f18d7a
+      c9720930-c4b4-41b5-bd50-0472350be66f
+    )
+  )
+  (group "" (id 26254359-2a72-48fb-bf9a-b76fca45b32d)
+    (members
+      04e42a5c-04de-48cd-9832-cc3d6c685c29
+      0d9eb9f4-ce84-4dc5-97d0-e193db199c06
+      1012bffa-6249-454e-a013-6c7d7d255d84
+      921f7b57-d049-4279-9356-f88656274328
+    )
+  )
+  (group "" (id 26b016fa-5430-4a3d-9350-f8a425adcde5)
+    (members
+      6cb033f9-4b08-46cb-8e65-3960d5da00cf
+      79b1b5f2-619a-47f6-badf-99d10336121d
+      85f90706-305e-4008-b898-acc790423581
+      dde4956f-6543-4c3a-888d-dd8448ff5789
+    )
+  )
+  (group "" (id 4261a086-52d0-403f-9bc3-5ba1a589053b)
+    (members
+      9f4e2607-4571-4833-88cb-b811ead99eff
+      d41155a0-0d13-46d2-be53-31378775db31
+      f4a90345-01fd-44d9-afc1-96225a116f8b
+    )
+  )
+  (group "" (id 84fe4c03-41bd-45a8-97e7-937c2bde5462)
+    (members
+      092ee8e6-951f-4cc6-8a98-14ff9e3a49b2
+      8ea83f9e-3f86-4b8f-90da-c779b212c629
+      bb6ab8ad-0201-474b-a0bc-01ef05a46f29
+      c47c76f5-0e13-4408-a8cf-578d3091403f
+    )
+  )
+  (group "" (id 981cf8f1-002d-401e-a745-66a3b6efa2e8)
+    (members
+      1d8ee752-3bc8-4787-810b-c785f11c7a45
+      2fe74e0c-0993-42b5-af37-fcf52d555b97
+      782bd9f8-f358-4afa-b43f-91ce517f8cfb
+      f02d3fa0-5ad1-4fa4-8034-162ef8709773
+    )
+  )
+  (group "" (id 9a56c95b-092b-4ea2-b3a6-e6462194dafc)
+    (members
+      a68422d7-5e8a-49ca-80e5-82325b4775c7
+      bf3c318a-c162-4bbc-b22e-62246b043557
+      ffc22a6b-96af-4dbb-8c1c-0f82840014ae
+    )
+  )
+  (group "" (id a066bd08-c1c9-45d0-82e5-3bd7aa42693b)
+    (members
+      062eb624-f169-4f61-baad-15e83ef62e0c
+      0eac096c-ff87-49c3-99fe-4ec36932eff9
+      2427a9cf-8c87-4a80-b8c4-8ee136d6b315
+      a423fb14-61ea-47e2-ac91-ca59d855021e
+    )
+  )
+  (group "" (id b6b14da5-bbf2-4f24-8daa-8358329990d0)
+    (members
+      410063a5-28b1-4e3a-b823-50f89c1a9db4
+      58d6cc3a-975b-428e-825a-31da65d68b6d
+      75c43460-6de7-435b-9c1d-4c447328e7c6
+    )
+  )
+  (group "" (id b9250103-cedd-41a2-b810-95bf57ab4864)
+    (members
+      2d8eaaeb-ec9c-43e7-9a6e-c46d1c2f9112
+      4d29987c-b16e-42c1-93a1-86c000e7bb43
+      4dc97b43-4b00-4fb6-bd9c-c7c06abf2dc6
+    )
+  )
+  (group "" (id bfb11545-280c-45e9-b437-c99ebf17871e)
+    (members
+      194406ab-eb86-498b-994e-1137fa3b7b6e
+      5a729dda-98ea-4a19-aebe-19906547b758
+      bc7e162c-eb5e-451a-b161-31838bdc4e42
+    )
+  )
+  (group "" (id c1af5664-46a7-4a69-ae8a-355168a7da7f)
+    (members
+      5311a3ff-70c7-4d21-a0d1-6ef829a05339
+      5d71103e-1fda-4f12-9466-25e7eb4f15e6
+      e5a7ad90-8705-4c6a-aa19-92b21acc78dd
+      fabdb57e-7a16-404f-b668-f0786c252e00
+    )
+  )
+  (group "" (id de47ccd5-a149-4930-beb6-182c2605de8f)
+    (members
+      63463b25-f814-497a-a043-f6d8992dc5bb
+      ad2c8060-35f9-444c-ab71-848607fc3063
+      e16d24a9-dbc7-48a3-bb04-356fb2346841
+    )
+  )
+  (group "" (id e7264adc-fcbb-4f38-97a9-fd2db0193399)
+    (members
+      ac96b857-4666-449e-999c-a1ae7a8ce56d
+      c038676b-98d7-49e6-b0e7-d3faf5225df5
+      cdc4c486-535c-4950-9986-90aa55195332
+      ce973893-65bc-4798-b2de-be70818c4f13
+    )
+  )
+)
