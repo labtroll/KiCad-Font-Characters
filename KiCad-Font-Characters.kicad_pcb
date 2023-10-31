@@ -86,7 +86,7 @@
       (plotinvisibletext false)
       (sketchpadsonfab false)
       (subtractmaskfromsilk false)
-      (outputformat 5)
+      (outputformat 4)
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
@@ -142,7 +142,7 @@
     (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp f1458d6d-a49b-499c-aad6-274b759a0b69))
   (gr_rect (start 10 10) (end 157 811)
     (stroke (width 0.1) (type default)) (fill none) (layer "Edge.Cuts") (tstamp ab925ebf-a475-4eef-97e2-e757a2eb5adc))
-  (gr_text "KiCad Font - Unicode Pages not implemented are omitted" (at 12 15) (layer "F.SilkS") (tstamp d6e1e20f-561d-401f-8c5d-00d901c96988)
+  (gr_text "KiCad Font (Unicode Blocks not implemented are omitted)" (at 12 15) (layer "F.SilkS") (tstamp d6e1e20f-561d-401f-8c5d-00d901c96988)
     (effects (font (size 3 3) (thickness 0.5) bold) (justify left bottom))
   )
   (gr_text_box "Superscripts and Subscripts\n\n		0	1	2	3	4	5	6	7	8	9	A	B	C	D	E	F\n\nU+207x	⁰	ⁱ			⁴	⁵	⁶	⁷	⁸	⁹	⁺	⁻	⁼	⁽	⁾	ⁿ\n\nU+208x	₀	₁	₂	₃	₄	₅	₆	₇	₈	₉	₊	₋	₌	₍	₎	\n\nU+209x	ₐ	ₑ	ₒ	ₓ	ₔ	ₕ	ₖ	ₗ	ₘ	ₙ	ₚ	ₛ	ₜ			"
