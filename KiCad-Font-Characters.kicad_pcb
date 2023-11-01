@@ -300,11 +300,8 @@
   (gr_text "Common" (at 297 98) (layer "F.SilkS") (tstamp f0504c9a-0eb3-4018-bcea-fa51a75dbf0d)
     (effects (font (size 2 2) (thickness 0.4) bold italic) (justify right bottom))
   )
-  (gr_text "${COMPANY} - ${ISSUE_DATE}" (at 450 499.117499) (layer "F.SilkS") (tstamp f06f3591-6d5d-4efe-be90-8db1802504f3)
+  (gr_text "Grouped by Script.\n\nUnimplemented blocks are omitted.\n\n${COMPANY} - ${ISSUE_DATE}" (at 450 499.117499) (layer "F.SilkS") (tstamp f06f3591-6d5d-4efe-be90-8db1802504f3)
     (effects (font (size 2 2) (thickness 0.3)) (justify right bottom))
-  )
-  (gr_text "Unimplemented Blocks are omitted\nGrouped by Writing System (Script)" (at 450 2) (layer "F.SilkS") (tstamp fa95d695-2d1b-4565-bedc-9542b711136a)
-    (effects (font (size 3 3) (thickness 0.375) italic) (justify right top))
   )
   (gr_text "Latin Extended-B" (at 3 202) (layer "F.SilkS") (tstamp fcdec718-d580-47a9-ae83-4e2aa17ed05f)
     (effects (font (size 2 2) (thickness 0.4) bold) (justify left bottom))
@@ -460,7 +457,6 @@
   )
   (group "" (id 77080d20-7dbb-40e9-8009-72fe85131f03)
     (members
-      2d7b8c22-9c47-4364-9aad-18bd9f6cd68d
       5534f6d2-ff0e-4ebf-ba5c-00a53f904439
       5773e85d-3e22-4831-99a1-efc79fa955a9
       84d42f44-7b8b-4db7-ad40-aab2f311ec1e
