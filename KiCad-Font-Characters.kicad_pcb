@@ -7,7 +7,7 @@
   (paper "User" 459.994 499.999)
   (title_block
     (title "KiCad Font Characters")
-    (date "2023-10-31")
+    (date "2023-11-01")
     (company "Morten Hattesen")
   )
 
@@ -96,29 +96,41 @@
 
   (net 0 "")
 
-  (gr_line (start 322 375) (end 322 429)
+  (gr_line (start 322 377) (end 322 434)
     (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp 04e42a5c-04de-48cd-9832-cc3d6c685c29))
-  (gr_line (start 16 361) (end 16 383)
+  (gr_line (start 16 361) (end 16 386)
     (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp 062eb624-f169-4f61-baad-15e83ef62e0c))
-  (gr_line (start 169 101) (end 169 116)
+  (gr_line (start 156 308) (end 297 308)
+    (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp 06354ab7-8dfc-4ffe-8481-2d0dc8bdfff7))
+  (gr_line (start 169 101) (end 169 126)
     (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp 0b245f1b-57eb-4791-988e-a6b49aaee071))
-  (gr_line (start 450 379) (end 309 379)
+  (gr_line (start 3 386) (end 144 386)
+    (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp 0c27f07c-88b7-45cb-b00d-80c8494fad2c))
+  (gr_line (start 309 434) (end 450 434)
+    (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp 0e6618aa-4ec1-4339-861e-2313f278ed39))
+  (gr_line (start 450 381) (end 309 381)
     (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp 1012bffa-6249-454e-a013-6c7d7d255d84))
-  (gr_line (start 16 136) (end 16 190)
+  (gr_line (start 16 136) (end 16 193)
     (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp 194406ab-eb86-498b-994e-1137fa3b7b6e))
-  (gr_line (start 169 129.5) (end 169 177)
+  (gr_line (start 309 328) (end 450 328)
+    (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp 19f8d5f4-0121-4815-8c27-92bbdd8e04b9))
+  (gr_line (start 169 137) (end 169 188)
     (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp 1b861a3a-b762-4df7-8492-dd9bdaa7f8c8))
-  (gr_line (start 322 99) (end 322 205)
+  (gr_line (start 322 99) (end 322 208)
     (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp 24e7623b-2951-48fb-8c74-279fc5a1c45a))
   (gr_line (start 309 223) (end 450 223)
     (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp 2a98ef6d-016e-49c6-9505-a908858d9f8e))
   (gr_line (start 3 310) (end 144 310)
     (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp 2d8eaaeb-ec9c-43e7-9a6e-c46d1c2f9112))
-  (gr_line (start 297 133.5) (end 156 133.5)
+  (gr_line (start 3 294) (end 144 294)
+    (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp 397ecbcf-8492-4373-ba03-c55b7cfada56))
+  (gr_line (start 297 141) (end 156 141)
     (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp 3d4d44f1-f166-4113-8019-7ff9c5375389))
-  (gr_line (start 169 311) (end 169 352)
+  (gr_line (start 169 319) (end 169 363)
     (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp 3efa68c5-945f-43d3-9c6c-f6d798866237))
-  (gr_line (start 16 306) (end 16 347)
+  (gr_line (start 3 350) (end 144 350)
+    (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp 479e906b-5b92-4819-9698-7a6ca8e2a629))
+  (gr_line (start 16 306) (end 16 350)
     (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp 4dc97b43-4b00-4fb6-bd9c-c7c06abf2dc6))
   (gr_line (start 309 344) (end 450 344)
     (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp 5534f6d2-ff0e-4ebf-ba5c-00a53f904439))
@@ -128,173 +140,249 @@
     (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp 5a729dda-98ea-4a19-aebe-19906547b758))
   (gr_line (start 3 84) (end 144 84)
     (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp 685305f9-8e6b-4b29-8d28-0e8f646c04c3))
-  (gr_line (start 16 397) (end 16 496)
+  (gr_line (start 309 208) (end 450 208)
+    (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp 69ae845b-1738-4bf9-83d3-3b1066e85972))
+  (gr_line (start 16 397) (end 16 499)
     (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp 6cb033f9-4b08-46cb-8e65-3960d5da00cf))
-  (gr_line (start 16 24) (end 16 65)
+  (gr_line (start 16 24) (end 16 68)
     (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp 782bd9f8-f358-4afa-b43f-91ce517f8cfb))
-  (gr_line (start 322 340) (end 322 362)
+  (gr_line (start 322 340) (end 322 365)
     (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp 84d42f44-7b8b-4db7-ad40-aab2f311ec1e))
-  (gr_line (start 169 191.5) (end 169 297)
+  (gr_line (start 156 90) (end 297 90)
+    (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp 8b8419cc-51ad-4193-b152-7c848eb50a8b))
+  (gr_line (start 3 193) (end 144 193)
+    (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp 9641e331-7384-4a15-94d5-d5cad8431b2c))
+  (gr_line (start 309 88) (end 450 88)
+    (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp 97424f39-3dc6-44bb-b1ad-bafe470a9da3))
+  (gr_line (start 169 199) (end 169 308)
     (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp 9a4c298f-2f4f-4d1b-904a-1af2da3a8612))
+  (gr_line (start 156 126) (end 297 126)
+    (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp 9f348cb8-7ec2-4992-a52d-ffdb5fb112aa))
   (gr_line (start 144 365) (end 3 365)
     (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp a423fb14-61ea-47e2-ac91-ca59d855021e))
   (gr_line (start 309 28) (end 450 28)
     (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp a5bdbdbb-49a0-4e5f-9317-b53eed74a0f1))
-  (gr_line (start 16 205) (end 16 291)
+  (gr_line (start 16 205) (end 16 294)
     (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp ad2c8060-35f9-444c-ab71-848607fc3063))
-  (gr_line (start 297 195.5) (end 156 195.5)
+  (gr_line (start 297 203) (end 156 203)
     (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp c28b70f0-4775-46a4-90f6-91a95a6dbedc))
+  (gr_line (start 3 124) (end 144 124)
+    (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp c3666b3c-3f74-4eca-8fe8-87584299c856))
   (gr_line (start 297 28) (end 156 28)
     (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp c594747b-c193-4d1b-89a2-784fc8dc4ca8))
-  (gr_line (start 297 315) (end 156 315)
+  (gr_line (start 297 323) (end 156 323)
     (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp c8a7189b-6122-42b9-aaf9-069ad8f8df2c))
-  (gr_line (start 16 80) (end 16 121)
+  (gr_line (start 16 80) (end 16 124)
     (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp c9720930-c4b4-41b5-bd50-0472350be66f))
-  (gr_line (start 169 24) (end 169 87)
+  (gr_line (start 156 363) (end 297 363)
+    (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp cb9635c6-e17b-47dd-9278-eae8aa624a23))
+  (gr_line (start 169 24) (end 169 90)
     (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp d33df2be-2b89-4add-94d5-3cd9008ad940))
   (gr_line (start 297 105) (end 156 105)
     (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp dcc9954e-d0d8-44d0-9e76-afb26545a040))
   (gr_line (start 144 401) (end 3 401)
     (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp dde4956f-6543-4c3a-888d-dd8448ff5789))
-  (gr_line (start 322 24) (end 322 85)
+  (gr_line (start 322 24) (end 322 88)
     (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp de2a1a59-7cbb-4870-a01e-319e80d73d3f))
   (gr_line (start 3 209) (end 144 209)
     (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp e16d24a9-dbc7-48a3-bb04-356fb2346841))
+  (gr_line (start 156 188) (end 297 188)
+    (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp e4dc132a-6cde-469d-9717-08219506568b))
+  (gr_line (start 2.5 499) (end 143.5 499)
+    (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp e5214835-f854-4294-8c52-1d8bf64630f8))
   (gr_line (start 3 28) (end 144 28)
     (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp f02d3fa0-5ad1-4fa4-8034-162ef8709773))
-  (gr_line (start 322 219) (end 322 325)
+  (gr_line (start 322 219) (end 322 328)
     (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp f1458d6d-a49b-499c-aad6-274b759a0b69))
-  (gr_rect (start 0 0) (end 453 498)
+  (gr_line (start 3 68) (end 144 68)
+    (stroke (width 0.15) (type default)) (layer "F.SilkS") (tstamp f91df7e0-f514-4d0b-b821-b4bbb5a8325e))
+  (gr_rect (start 0 0) (end 453 501)
     (stroke (width 0.1) (type default)) (fill none) (layer "Edge.Cuts") (tstamp ab925ebf-a475-4eef-97e2-e757a2eb5adc))
-  (gr_text "Common" (at 297 126) (layer "F.SilkS") (tstamp 0e99b76f-3023-42eb-a9eb-4fe5694f371e)
-    (effects (font (size 2 2) (thickness 0.3) italic) (justify right bottom))
+  (gr_text "Common" (at 297 134) (layer "F.SilkS") (tstamp 0e99b76f-3023-42eb-a9eb-4fe5694f371e)
+    (effects (font (size 2 2) (thickness 0.4) bold italic) (justify right bottom))
   )
   (gr_text "Latin" (at 144 302) (layer "F.SilkS") (tstamp 0f11fae4-4319-44cf-9c41-e773468949b8)
-    (effects (font (size 2 2) (thickness 0.3) italic) (justify right bottom))
+    (effects (font (size 2 2) (thickness 0.4) bold italic) (justify right bottom))
   )
-  (gr_text "Common" (at 296 307) (layer "F.SilkS") (tstamp 19322bf2-f165-41ca-a9a4-3e72cae8ee27)
-    (effects (font (size 2 2) (thickness 0.3) italic) (justify right bottom))
+  (gr_text "Arrows" (at 156 134) (layer "F.SilkS") (tstamp 18fab4df-5763-4b7c-a6fa-61e5dc0a938c)
+    (effects (font (size 2 2) (thickness 0.4) bold) (justify left bottom))
   )
-  (gr_text "Latin" (at 144 393) (layer "F.SilkS") (tstamp 293a2a83-aa89-4ec8-8bb1-08f5e159929a)
-    (effects (font (size 2 2) (thickness 0.3) italic) (justify right bottom))
+  (gr_text "Common" (at 296 316) (layer "F.SilkS") (tstamp 19322bf2-f165-41ca-a9a4-3e72cae8ee27)
+    (effects (font (size 2 2) (thickness 0.4) bold italic) (justify right bottom))
   )
-  (gr_text "Cyrillic" (at 450 336) (layer "F.SilkS") (tstamp 5773e85d-3e22-4831-99a1-efc79fa955a9)
-    (effects (font (size 2 2) (thickness 0.3) italic) (justify right bottom))
+  (gr_text "Latin" (at 144 394) (layer "F.SilkS") (tstamp 293a2a83-aa89-4ec8-8bb1-08f5e159929a)
+    (effects (font (size 2 2) (thickness 0.4) bold italic) (justify right bottom))
   )
-  (gr_text "Common" (at 297 20) (layer "F.SilkS") (tstamp 7926d689-2810-494b-8f4f-4dff4df6ce46)
-    (effects (font (size 2 2) (thickness 0.3) italic) (justify right bottom))
+  (gr_text "Latin1 Supplement" (at 3 77) (layer "F.SilkS") (tstamp 35715e6c-7917-457f-8fb2-08e4f56cf61b)
+    (effects (font (size 2 2) (thickness 0.4) bold) (justify left bottom))
   )
-  (gr_text "Greek" (at 450 95) (layer "F.SilkS") (tstamp 830a7f4d-aa31-4210-bcd6-660805cb2988)
-    (effects (font (size 2 2) (thickness 0.3) italic) (justify right bottom))
+  (gr_text "Halfwidth and Fullwidth Forms" (at 3 394) (layer "F.SilkS") (tstamp 452e7f07-a074-49f5-b8aa-5c6424d14f4d)
+    (effects (font (size 2 2) (thickness 0.4) bold) (justify left bottom))
   )
-  (gr_text "Latin" (at 144 357) (layer "F.SilkS") (tstamp 867089b2-f949-484e-ae48-1e503594104a)
-    (effects (font (size 2 2) (thickness 0.3) italic) (justify right bottom))
+  (gr_text "Greek Extended" (at 309 96) (layer "F.SilkS") (tstamp 52059398-0a0a-4b6e-9c45-9e8fbea33717)
+    (effects (font (size 2 2) (thickness 0.4) bold) (justify left bottom))
   )
-  (gr_text "Latin" (at 144 20) (layer "F.SilkS") (tstamp 912d8f41-91e9-4cff-9786-6861c854838b)
-    (effects (font (size 2 2) (thickness 0.3) italic) (justify right bottom))
+  (gr_text "Mathematical Operators" (at 156 196) (layer "F.SilkS") (tstamp 571d5a04-6af0-4df7-b7da-a997c0f5890d)
+    (effects (font (size 2 2) (thickness 0.4) bold) (justify left bottom))
   )
-  (gr_text "Cyrillic" (at 450 371) (layer "F.SilkS") (tstamp 9395c996-8bcb-4413-8d98-0976a3571c09)
-    (effects (font (size 2 2) (thickness 0.3) italic) (justify right bottom))
+  (gr_text "Cyrillic" (at 451 338) (layer "F.SilkS") (tstamp 5773e85d-3e22-4831-99a1-efc79fa955a9)
+    (effects (font (size 2 2) (thickness 0.4) bold italic) (justify right bottom))
   )
-  (gr_text "Latin" (at 144 132) (layer "F.SilkS") (tstamp 9b0eea93-662b-4d70-9413-0a543b520692)
-    (effects (font (size 2 2) (thickness 0.3) italic) (justify right bottom))
+  (gr_text "Common" (at 297 21) (layer "F.SilkS") (tstamp 7926d689-2810-494b-8f4f-4dff4df6ce46)
+    (effects (font (size 2 2) (thickness 0.4) bold italic) (justify right bottom))
   )
-  (gr_text "Cyrillic" (at 450 215) (layer "F.SilkS") (tstamp 9b360bc6-623b-4530-a29f-c60487e7aad6)
-    (effects (font (size 2 2) (thickness 0.3) italic) (justify right bottom))
+  (gr_text "IPA Extensions" (at 3 302) (layer "F.SilkS") (tstamp 7ebd912b-8459-466e-83cf-6a83b5ee18a3)
+    (effects (font (size 2 2) (thickness 0.4) bold) (justify left bottom))
   )
-  (gr_text "Latin" (at 144 76) (layer "F.SilkS") (tstamp c9dbd033-fd49-4bd0-9f65-a63827874272)
-    (effects (font (size 2 2) (thickness 0.3) italic) (justify right bottom))
+  (gr_text "Greek" (at 450 96) (layer "F.SilkS") (tstamp 830a7f4d-aa31-4210-bcd6-660805cb2988)
+    (effects (font (size 2 2) (thickness 0.4) bold italic) (justify right bottom))
   )
-  (gr_text "Coptic" (at 450 20) (layer "F.SilkS") (tstamp cb9de816-5712-47b7-84e6-c61183c61d04)
-    (effects (font (size 2 2) (thickness 0.3) italic) (justify right bottom))
+  (gr_text "Cyrillic" (at 309 216) (layer "F.SilkS") (tstamp 84c950e1-86b3-467d-9cd9-8b53747dbdd9)
+    (effects (font (size 2 2) (thickness 0.4) bold) (justify left bottom))
+  )
+  (gr_text "Latin" (at 144 358) (layer "F.SilkS") (tstamp 867089b2-f949-484e-ae48-1e503594104a)
+    (effects (font (size 2 2) (thickness 0.4) bold italic) (justify right bottom))
+  )
+  (gr_text "Latin" (at 144 21) (layer "F.SilkS") (tstamp 912d8f41-91e9-4cff-9786-6861c854838b)
+    (effects (font (size 2 2) (thickness 0.4) bold italic) (justify right bottom))
+  )
+  (gr_text "Latin1 Supplement" (at 3 133) (layer "F.SilkS") (tstamp 933048d7-43ae-4dd2-8533-2da0e73f64e9)
+    (effects (font (size 2 2) (thickness 0.4) bold) (justify left bottom))
+  )
+  (gr_text "Cyrillic" (at 450 374) (layer "F.SilkS") (tstamp 9395c996-8bcb-4413-8d98-0976a3571c09)
+    (effects (font (size 2 2) (thickness 0.4) bold italic) (justify right bottom))
+  )
+  (gr_text "Greek and Coptic" (at 309 21) (layer "F.SilkS") (tstamp 989a74dd-8ac3-4233-a94c-12eef133a2a7)
+    (effects (font (size 2 2) (thickness 0.4) bold) (justify left bottom))
+  )
+  (gr_text "Cyrillic Supplement" (at 309 337) (layer "F.SilkS") (tstamp 990f94b5-ce86-4aa7-87ff-aec574ada55d)
+    (effects (font (size 2 2) (thickness 0.4) bold) (justify left bottom))
+  )
+  (gr_text "Latin" (at 144 133) (layer "F.SilkS") (tstamp 9b0eea93-662b-4d70-9413-0a543b520692)
+    (effects (font (size 2 2) (thickness 0.4) bold italic) (justify right bottom))
+  )
+  (gr_text "Cyrillic" (at 450 216) (layer "F.SilkS") (tstamp 9b360bc6-623b-4530-a29f-c60487e7aad6)
+    (effects (font (size 2 2) (thickness 0.4) bold italic) (justify right bottom))
+  )
+  (gr_text "Latin1 Supplement" (at 156 316) (layer "F.SilkS") (tstamp 9d3cc468-899f-45ac-b3df-da6e26ac1eb8)
+    (effects (font (size 2 2) (thickness 0.4) bold) (justify left bottom))
+  )
+  (gr_text "Currency Symbols" (at 156 98) (layer "F.SilkS") (tstamp a323a296-9575-485c-aa72-b85f72cbd60c)
+    (effects (font (size 2 2) (thickness 0.4) bold) (justify left bottom))
+  )
+  (gr_text "Superscripts and Subscripts" (at 3 358) (layer "F.SilkS") (tstamp a43997c7-128f-4ef1-9aa2-2f140275240c)
+    (effects (font (size 2 2) (thickness 0.4) bold) (justify left bottom))
+  )
+  (gr_text "Basic Latin" (at 3 21) (layer "F.SilkS") (tstamp bd65a577-6ca3-46b6-a432-2ba50261ee43)
+    (effects (font (size 2 2) (thickness 0.4) bold) (justify left bottom))
+  )
+  (gr_text "Latin" (at 144 77) (layer "F.SilkS") (tstamp c9dbd033-fd49-4bd0-9f65-a63827874272)
+    (effects (font (size 2 2) (thickness 0.4) bold italic) (justify right bottom))
+  )
+  (gr_text "Coptic" (at 450 21) (layer "F.SilkS") (tstamp cb9de816-5712-47b7-84e6-c61183c61d04)
+    (effects (font (size 2 2) (thickness 0.4) bold italic) (justify right bottom))
   )
   (gr_text "KiCad Font - Unicode Blocks" (at 2 2) (layer "F.SilkS") (tstamp d6e1e20f-561d-401f-8c5d-00d901c96988)
     (effects (font (size 3 3) (thickness 0.5) bold) (justify left top))
   )
-  (gr_text "Latin" (at 144 201) (layer "F.SilkS") (tstamp dbd20878-c4eb-4789-a35e-ad8d04890b22)
-    (effects (font (size 2 2) (thickness 0.3) italic) (justify right bottom))
+  (gr_text "Latin" (at 144 202) (layer "F.SilkS") (tstamp dbd20878-c4eb-4789-a35e-ad8d04890b22)
+    (effects (font (size 2 2) (thickness 0.4) bold italic) (justify right bottom))
   )
-  (gr_text "Common" (at 297 187) (layer "F.SilkS") (tstamp ebe4b9c4-6d13-4cb4-bd34-036741670b12)
-    (effects (font (size 2 2) (thickness 0.3) italic) (justify right bottom))
+  (gr_text "Phonetic Extensions" (at 309 373) (layer "F.SilkS") (tstamp e8da0dfe-d567-4000-84d5-c81390870e47)
+    (effects (font (size 2 2) (thickness 0.4) bold) (justify left bottom))
   )
-  (gr_text "Common" (at 297 97) (layer "F.SilkS") (tstamp f0504c9a-0eb3-4018-bcea-fa51a75dbf0d)
-    (effects (font (size 2 2) (thickness 0.3) italic) (justify right bottom))
+  (gr_text "Common" (at 297 196) (layer "F.SilkS") (tstamp ebe4b9c4-6d13-4cb4-bd34-036741670b12)
+    (effects (font (size 2 2) (thickness 0.4) bold italic) (justify right bottom))
+  )
+  (gr_text "General Punctuation" (at 156 21) (layer "F.SilkS") (tstamp f0461d1d-ba47-4699-9d8b-cf31f1403d5f)
+    (effects (font (size 2 2) (thickness 0.4) bold) (justify left bottom))
+  )
+  (gr_text "Common" (at 297 98) (layer "F.SilkS") (tstamp f0504c9a-0eb3-4018-bcea-fa51a75dbf0d)
+    (effects (font (size 2 2) (thickness 0.4) bold italic) (justify right bottom))
+  )
+  (gr_text "${COMPANY} - ${ISSUE_DATE}" (at 450 499.117499) (layer "F.SilkS") (tstamp f06f3591-6d5d-4efe-be90-8db1802504f3)
+    (effects (font (size 2 2) (thickness 0.3)) (justify right bottom))
   )
   (gr_text "Unimplemented Blocks are omitted\nGrouped by Writing System (Script)" (at 450 2) (layer "F.SilkS") (tstamp fa95d695-2d1b-4565-bedc-9542b711136a)
     (effects (font (size 3 3) (thickness 0.375) italic) (justify right top))
   )
-  (gr_text_box "Superscripts and Subscripts\n\n		0	1	2	3	4	5	6	7	8	9	A	B	C	D	E	F\n\nU+207x	⁰	ⁱ			⁴	⁵	⁶	⁷	⁸	⁹	⁺	⁻	⁼	⁽	⁾	ⁿ\n\nU+208x	₀	₁	₂	₃	₄	₅	₆	₇	₈	₉	₊	₋	₌	₍	₎	\n\nU+209x	ₐ	ₑ	ₒ	ₓ	ₔ	ₕ	ₖ	ₗ	ₘ	ₙ	ₚ	ₛ	ₜ			"
-    (start 1 353) (end 145 384) (layer "F.SilkS") (tstamp 2427a9cf-8c87-4a80-b8c4-8ee136d6b315)
+  (gr_text "Latin Extended-B" (at 3 202) (layer "F.SilkS") (tstamp fcdec718-d580-47a9-ae83-4e2aa17ed05f)
+    (effects (font (size 2 2) (thickness 0.4) bold) (justify left bottom))
+  )
+  (gr_text_box "		0	1	2	3	4	5	6	7	8	9	A	B	C	D	E	F\n\nU+207x	⁰	ⁱ			⁴	⁵	⁶	⁷	⁸	⁹	⁺	⁻	⁼	⁽	⁾	ⁿ\n\nU+208x	₀	₁	₂	₃	₄	₅	₆	₇	₈	₉	₊	₋	₌	₍	₎	\n\nU+209x	ₐ	ₑ	ₒ	ₓ	ₔ	ₕ	ₖ	ₗ	ₘ	ₙ	ₚ	ₛ	ₜ			"
+    (start 1 360) (end 145 384) (layer "F.SilkS") (tstamp 2427a9cf-8c87-4a80-b8c4-8ee136d6b315)
       (effects (font (size 2 2) (thickness 0.3)) (justify left top))
   )
-  (gr_text_box "Basic Latin\n\n		0	1	2	3	4	5	6	7	8	9	A	B	C	D	E	F\n\nU+002x	SP	!	{dblquote}	#	$	%	&	'	(	)	*	+	,	-	.	/\n\nU+003x	0	1	2	3	4	5	6	7	8	9	:	;	<	=	>	?\n\nU+004x	@	A	B	C	D	E	F	G	H	I	J	K	L	M	N	O\n\nU+005x	P	Q	R	S	T	U	V	W	X	Y	Z	[	\\	]	^	_\n\nU+006x	`	a	b	c	d	e	f	g	h	i	j	k	l	m	n	o\n\nU+007x	p	q	r	s	t	u	v	w	x	y	z	{	|	}	~	DEL"
-    (start 1 16) (end 145 67) (layer "F.SilkS") (tstamp 2fe74e0c-0993-42b5-af37-fcf52d555b97)
+  (gr_text_box "		0	1	2	3	4	5	6	7	8	9	A	B	C	D	E	F\n\nU+002x	SP	!	{dblquote}	#	$	%	&	'	(	)	*	+	,	-	.	/\n\nU+003x	0	1	2	3	4	5	6	7	8	9	:	;	<	=	>	?\n\nU+004x	@	A	B	C	D	E	F	G	H	I	J	K	L	M	N	O\n\nU+005x	P	Q	R	S	T	U	V	W	X	Y	Z	[	\\	]	^	_\n\nU+006x	`	a	b	c	d	e	f	g	h	i	j	k	l	m	n	o\n\nU+007x	p	q	r	s	t	u	v	w	x	y	z	{	|	}	~	DEL"
+    (start 1 23) (end 145 67) (layer "F.SilkS") (tstamp 2fe74e0c-0993-42b5-af37-fcf52d555b97)
       (effects (font (size 2 2) (thickness 0.3)) (justify left top))
   )
-  (gr_text_box "IPA Extensions\n\n		0	1	2	3	4	5	6	7	8	9	A	B	C	D	E	F\n\nU+025x	ɐ	ɑ	ɒ	ɓ	ɔ	ɕ	ɖ	ɗ	ɘ	ə	ɚ	ɛ	ɜ	ɝ	ɞ	ɟ\n\nU+026x	ɠ	ɡ	ɢ	ɣ	ɤ	ɥ	ɦ	ɧ	ɨ	ɩ	ɪ	ɫ	ɬ	ɭ	ɮ	ɯ\n\nU+027x	ɰ	ɱ	ɲ	ɳ	ɴ	ɵ	ɶ	ɷ	ɸ	ɹ	ɺ	ɻ	ɼ	ɽ	ɾ	ɿ\n\nU+028x	ʀ	ʁ	ʂ	ʃ	ʄ	ʅ	ʆ	ʇ	ʈ	ʉ	ʊ	ʋ	ʌ	ʍ	ʎ	ʏ\n\nU+029x	ʐ	ʑ	ʒ	ʓ	ʔ	ʕ	ʖ	ʗ	ʘ	ʙ	ʚ	ʛ	ʜ	ʝ	ʞ	ʟ\n\nU+02Ax	ʠ	ʡ	ʢ	ʣ	ʤ	ʥ	ʦ	ʧ	ʨ	ʩ	ʪ	ʫ	ʬ	ʭ	ʮ	ʯ"
-    (start 1 298) (end 145 348) (layer "F.SilkS") (tstamp 4d29987c-b16e-42c1-93a1-86c000e7bb43)
+  (gr_text_box "		0	1	2	3	4	5	6	7	8	9	A	B	C	D	E	F\n\nU+025x	ɐ	ɑ	ɒ	ɓ	ɔ	ɕ	ɖ	ɗ	ɘ	ə	ɚ	ɛ	ɜ	ɝ	ɞ	ɟ\n\nU+026x	ɠ	ɡ	ɢ	ɣ	ɤ	ɥ	ɦ	ɧ	ɨ	ɩ	ɪ	ɫ	ɬ	ɭ	ɮ	ɯ\n\nU+027x	ɰ	ɱ	ɲ	ɳ	ɴ	ɵ	ɶ	ɷ	ɸ	ɹ	ɺ	ɻ	ɼ	ɽ	ɾ	ɿ\n\nU+028x	ʀ	ʁ	ʂ	ʃ	ʄ	ʅ	ʆ	ʇ	ʈ	ʉ	ʊ	ʋ	ʌ	ʍ	ʎ	ʏ\n\nU+029x	ʐ	ʑ	ʒ	ʓ	ʔ	ʕ	ʖ	ʗ	ʘ	ʙ	ʚ	ʛ	ʜ	ʝ	ʞ	ʟ\n\nU+02Ax	ʠ	ʡ	ʢ	ʣ	ʤ	ʥ	ʦ	ʧ	ʨ	ʩ	ʪ	ʫ	ʬ	ʭ	ʮ	ʯ"
+    (start 1 305) (end 145 348) (layer "F.SilkS") (tstamp 4d29987c-b16e-42c1-93a1-86c000e7bb43)
       (effects (font (size 2 2) (thickness 0.3)) (justify left top))
   )
-  (gr_text_box "Greek Extended\n\n		0	1	2	3	4	5	6	7	8	9	A	B	C	D	E	F\n\nU+1F0x	ἀ	ἁ	ἂ	ἃ	ἄ	ἅ	ἆ	ἇ	Ἀ	Ἁ	Ἂ	Ἃ	Ἄ	Ἅ	Ἆ	Ἇ\n\nU+1F1x	ἐ	ἑ	ἒ	ἓ	ἔ	ἕ			Ἐ	Ἑ	Ἒ	Ἓ	Ἔ	Ἕ		\n\nU+1F2x	ἠ	ἡ	ἢ	ἣ	ἤ	ἥ	ἦ	ἧ	Ἠ	Ἡ	Ἢ	Ἣ	Ἤ	Ἥ	Ἦ	Ἧ\n\nU+1F3x	ἰ	ἱ	ἲ	ἳ	ἴ	ἵ	ἶ	ἷ	Ἰ	Ἱ	Ἲ	Ἳ	Ἴ	Ἵ	Ἶ	Ἷ\n\nU+1F4x	ὀ	ὁ	ὂ	ὃ	ὄ	ὅ			Ὀ	Ὁ	Ὂ	Ὃ	Ὄ	Ὅ		\n\nU+1F5x	ὐ	ὑ	ὒ	ὓ	ὔ	ὕ	ὖ	ὗ		Ὑ		Ὓ		Ὕ		Ὗ\n\nU+1F6x	ὠ	ὡ	ὢ	ὣ	ὤ	ὥ	ὦ	ὧ	Ὠ	Ὡ	Ὢ	Ὣ	Ὤ	Ὥ	Ὦ	Ὧ\n\nU+1F7x	ὰ	ά	ὲ	έ	ὴ	ή	ὶ	ί	ὸ	ό	ὺ	ύ	ὼ	ώ		\n\nU+1F8x	ᾀ	ᾁ	ᾂ	ᾃ	ᾄ	ᾅ	ᾆ	ᾇ	ᾈ	ᾉ	ᾊ	ᾋ	ᾌ	ᾍ	ᾎ	ᾏ\n\nU+1F9x	ᾐ	ᾑ	ᾒ	ᾓ	ᾔ	ᾕ	ᾖ	ᾗ	ᾘ	ᾙ	ᾚ	ᾛ	ᾜ	ᾝ	ᾞ	ᾟ\n\nU+1FAx	ᾠ	ᾡ	ᾢ	ᾣ	ᾤ	ᾥ	ᾦ	ᾧ	ᾨ	ᾩ	ᾪ	ᾫ	ᾬ	ᾭ	ᾮ	ᾯ\n\nU+1FBx	ᾰ	ᾱ	ᾲ	ᾳ	ᾴ		ᾶ	ᾷ	Ᾰ	Ᾱ	Ὰ	Ά	ᾼ	᾽	ι	᾿\n\nU+1FCx	῀	῁	ῂ	ῃ	ῄ		ῆ	ῇ	Ὲ	Έ	Ὴ	Ή	ῌ	῍	῎	῏\n\nU+1FDx	ῐ	ῑ	ῒ	ΐ			ῖ	ῗ	Ῐ	Ῑ	Ὶ	Ί		῝	῞	῟\n\nU+1FEx	ῠ	ῡ	ῢ	ΰ	ῤ	ῥ	ῦ	ῧ	Ῠ	Ῡ	Ὺ	Ύ	Ῥ	῭	΅	`\n\nU+1FFx			ῲ	ῳ	ῴ		ῶ	ῷ	Ὸ	Ό	Ὼ	Ώ	ῼ	´	῾	\n"
-    (start 307 91) (end 451 206) (layer "F.SilkS") (tstamp 5dd472e5-0d6d-4743-a308-7309a6e5726c)
+  (gr_text_box "		0	1	2	3	4	5	6	7	8	9	A	B	C	D	E	F\n\nU+1F0x	ἀ	ἁ	ἂ	ἃ	ἄ	ἅ	ἆ	ἇ	Ἀ	Ἁ	Ἂ	Ἃ	Ἄ	Ἅ	Ἆ	Ἇ\n\nU+1F1x	ἐ	ἑ	ἒ	ἓ	ἔ	ἕ			Ἐ	Ἑ	Ἒ	Ἓ	Ἔ	Ἕ		\n\nU+1F2x	ἠ	ἡ	ἢ	ἣ	ἤ	ἥ	ἦ	ἧ	Ἠ	Ἡ	Ἢ	Ἣ	Ἤ	Ἥ	Ἦ	Ἧ\n\nU+1F3x	ἰ	ἱ	ἲ	ἳ	ἴ	ἵ	ἶ	ἷ	Ἰ	Ἱ	Ἲ	Ἳ	Ἴ	Ἵ	Ἶ	Ἷ\n\nU+1F4x	ὀ	ὁ	ὂ	ὃ	ὄ	ὅ			Ὀ	Ὁ	Ὂ	Ὃ	Ὄ	Ὅ		\n\nU+1F5x	ὐ	ὑ	ὒ	ὓ	ὔ	ὕ	ὖ	ὗ		Ὑ		Ὓ		Ὕ		Ὗ\n\nU+1F6x	ὠ	ὡ	ὢ	ὣ	ὤ	ὥ	ὦ	ὧ	Ὠ	Ὡ	Ὢ	Ὣ	Ὤ	Ὥ	Ὦ	Ὧ\n\nU+1F7x	ὰ	ά	ὲ	έ	ὴ	ή	ὶ	ί	ὸ	ό	ὺ	ύ	ὼ	ώ		\n\nU+1F8x	ᾀ	ᾁ	ᾂ	ᾃ	ᾄ	ᾅ	ᾆ	ᾇ	ᾈ	ᾉ	ᾊ	ᾋ	ᾌ	ᾍ	ᾎ	ᾏ\n\nU+1F9x	ᾐ	ᾑ	ᾒ	ᾓ	ᾔ	ᾕ	ᾖ	ᾗ	ᾘ	ᾙ	ᾚ	ᾛ	ᾜ	ᾝ	ᾞ	ᾟ\n\nU+1FAx	ᾠ	ᾡ	ᾢ	ᾣ	ᾤ	ᾥ	ᾦ	ᾧ	ᾨ	ᾩ	ᾪ	ᾫ	ᾬ	ᾭ	ᾮ	ᾯ\n\nU+1FBx	ᾰ	ᾱ	ᾲ	ᾳ	ᾴ		ᾶ	ᾷ	Ᾰ	Ᾱ	Ὰ	Ά	ᾼ	᾽	ι	᾿\n\nU+1FCx	῀	῁	ῂ	ῃ	ῄ		ῆ	ῇ	Ὲ	Έ	Ὴ	Ή	ῌ	῍	῎	῏\n\nU+1FDx	ῐ	ῑ	ῒ	ΐ			ῖ	ῗ	Ῐ	Ῑ	Ὶ	Ί		῝	῞	῟\n\nU+1FEx	ῠ	ῡ	ῢ	ΰ	ῤ	ῥ	ῦ	ῧ	Ῠ	Ῡ	Ὺ	Ύ	Ῥ	῭	΅	`\n\nU+1FFx			ῲ	ῳ	ῴ		ῶ	ῷ	Ὸ	Ό	Ὼ	Ώ	ῼ	´	῾	\n"
+    (start 307 98) (end 451 206) (layer "F.SilkS") (tstamp 5dd472e5-0d6d-4743-a308-7309a6e5726c)
       (effects (font (size 2 2) (thickness 0.3)) (justify left top))
   )
-  (gr_text_box "Geometric Shapes\n\n		0	1	2	3	4	5	6	7	8	9	A	B	C	D	E	F\n\nU+25Ax	■	□	▢	▣	▤	▥	▦	▧	▨	▩	▪	▫	▬	▭	▮	▯\n\nU+25Bx	▰	▱	▲	△	▴	▵	▶	▷	▸	▹	►	▻	▼	▽	▾	▿\n\nU+25Cx	◀	◁	◂	◃	◄	◅	◆	◇	◈	◉	◊	○	◌	◍	◎	●\n\nU+25Dx	◐	◑	◒	◓	◔	◕	◖	◗	◘	◙	◚	◛	◜	◝	◞	◟\n\nU+25Ex	◠	◡	◢	◣	◤	◥	◦	◧	◨	◩	◪	◫	◬	◭	◮	◯\n\nU+25Fx	◰	◱	◲	◳	◴	◵	◶	◷	◸	◹	◺	◻	◼	◽	◾	◿"
-    (start 154 303) (end 298 353) (layer "F.SilkS") (tstamp 5dfa0cef-e4f1-4288-b7e9-b56bd5c04de4)
+  (gr_text_box "		0	1	2	3	4	5	6	7	8	9	A	B	C	D	E	F\n\nU+25Ax	■	□	▢	▣	▤	▥	▦	▧	▨	▩	▪	▫	▬	▭	▮	▯\n\nU+25Bx	▰	▱	▲	△	▴	▵	▶	▷	▸	▹	►	▻	▼	▽	▾	▿\n\nU+25Cx	◀	◁	◂	◃	◄	◅	◆	◇	◈	◉	◊	○	◌	◍	◎	●\n\nU+25Dx	◐	◑	◒	◓	◔	◕	◖	◗	◘	◙	◚	◛	◜	◝	◞	◟\n\nU+25Ex	◠	◡	◢	◣	◤	◥	◦	◧	◨	◩	◪	◫	◬	◭	◮	◯\n\nU+25Fx	◰	◱	◲	◳	◴	◵	◶	◷	◸	◹	◺	◻	◼	◽	◾	◿"
+    (start 154 318) (end 298 361) (layer "F.SilkS") (tstamp 5dfa0cef-e4f1-4288-b7e9-b56bd5c04de4)
       (effects (font (size 2 2) (thickness 0.3)) (justify left top))
   )
-  (gr_text_box "General Punctuation\n\n		0	1	2	3	4	5	6	7	8	9	A	B	C	D	E	F\n\nU+200x	NQ	MQ	EN	EM	3/M	4/M	6/M	F	P	TH	H	ZW	ZW	ZW	LRM	RLM \n		SP	SP	SP	SP	SP	SP	SP	SP	SP	SP	SP	SP	NJ	J\n\nU+201x	‐	NB	‒	-	-	―	‖	‗	'	'	‚	‛	{dblquote}	{dblquote}	„	‟\n			-	\n\nU+202x	†	‡	•	‣	․	‥	…	‧	L	P	LRE	RLE	PDF	LRO	RLO	NNB\n										SEP	SEP						SP\n\nU+203x	‰	‱	′	″	‴	‵	‶	‷	‸	‹	›	※	‼	‽	‾	‿\n\nU+204x	⁀	⁁	⁂	⁃	⁄	⁅	⁆	⁇	⁈	⁉	⁊	⁋	⁌	⁍	⁎	⁏\n\nU+205x	⁐	⁑	⁒	⁓	⁔	⁕	⁖	⁗	⁘	⁙	⁚	⁛	⁜	⁝	⁞	MM\n																	SP\n\nU+206x	WJ	ƒ()	 ×	 , 	 +		LRI	RLI	FSI	PDI	I	A	I 	A	NA 	NO\n												SS	SS	AFS	AFS	DS	DS"
-    (start 154 16) (end 298 88.5) (layer "F.SilkS") (tstamp 5ff303cd-e5dc-4412-a345-d6bc188d28dc)
+  (gr_text_box "		0	1	2	3	4	5	6	7	8	9	A	B	C	D	E	F\n\nU+200x	NQ	MQ	EN	EM	3/M	4/M	6/M	F	P	TH	H	ZW	ZW	ZW	LRM	RLM \n		SP	SP	SP	SP	SP	SP	SP	SP	SP	SP	SP	SP	NJ	J\n\nU+201x	‐	NB	‒	-	-	―	‖	‗	'	'	‚	‛	{dblquote}	{dblquote}	„	‟\n			-	\n\nU+202x	†	‡	•	‣	․	‥	…	‧	L	P	LRE	RLE	PDF	LRO	RLO	NNB\n										SEP	SEP						SP\n\nU+203x	‰	‱	′	″	‴	‵	‶	‷	‸	‹	›	※	‼	‽	‾	‿\n\nU+204x	⁀	⁁	⁂	⁃	⁄	⁅	⁆	⁇	⁈	⁉	⁊	⁋	⁌	⁍	⁎	⁏\n\nU+205x	⁐	⁑	⁒	⁓	⁔	⁕	⁖	⁗	⁘	⁙	⁚	⁛	⁜	⁝	⁞	MM\n																	SP\n\nU+206x	WJ	ƒ()	 ×	 , 	 +		LRI	RLI	FSI	PDI	I	A	I 	A	NA 	NO\n												SS	SS	AFS	AFS	DS	DS"
+    (start 154 23) (end 298 88.5) (layer "F.SilkS") (tstamp 5ff303cd-e5dc-4412-a345-d6bc188d28dc)
       (effects (font (size 2 2) (thickness 0.3)) (justify left top))
   )
-  (gr_text_box "Latin Extended-B\n\n		0	1	2	3	4	5	6	7	8	9	A	B	C	D	E	F\n\nU+018x	ƀ	Ɓ	Ƃ	ƃ	Ƅ	ƅ	Ɔ	Ƈ	ƈ	Ɖ	Ɗ	Ƌ	ƌ	ƍ	Ǝ	Ə\n\nU+019x	Ɛ	Ƒ	ƒ	Ɠ	Ɣ	ƕ	Ɩ	Ɨ	Ƙ	ƙ	ƚ	ƛ	Ɯ	Ɲ	ƞ	Ɵ\n\nU+01Ax	Ơ	ơ	Ƣ	ƣ	Ƥ	ƥ	Ʀ	Ƨ	ƨ	Ʃ	ƪ	ƫ	Ƭ	ƭ	Ʈ	Ư\n\nU+01Bx	ư	Ʊ	Ʋ	Ƴ	ƴ	Ƶ	ƶ	Ʒ	Ƹ	ƹ	ƺ	ƻ	Ƽ	ƽ	ƾ	ƿ\n\nU+01Cx	ǀ	ǁ	ǂ	ǃ	Ǆ	ǅ	ǆ	Ǉ	ǈ	ǉ	Ǌ	ǋ	ǌ	Ǎ	ǎ	Ǐ\n\nU+01Dx	ǐ	Ǒ	ǒ	Ǔ	ǔ	Ǖ	ǖ	Ǘ	ǘ	Ǚ	ǚ	Ǜ	ǜ	ǝ	Ǟ	ǟ\n\nU+01Ex	Ǡ	ǡ	Ǣ	ǣ	Ǥ	ǥ	Ǧ	ǧ	Ǩ	ǩ	Ǫ	ǫ	Ǭ	ǭ	Ǯ	ǯ\n\nU+01Fx	ǰ	Ǳ	ǲ	ǳ	Ǵ	ǵ	Ƕ	Ƿ	Ǹ	ǹ	Ǻ	ǻ	Ǽ	ǽ	Ǿ	ǿ\n\nU+020x	Ȁ	ȁ	Ȃ	ȃ	Ȅ	ȅ	Ȇ	ȇ	Ȉ	ȉ	Ȋ	ȋ	Ȍ	ȍ	Ȏ	ȏ\n\nU+021x	Ȑ	ȑ	Ȓ	ȓ	Ȕ	ȕ	Ȗ	ȗ	Ș	ș	Ț	ț	Ȝ	ȝ	Ȟ	ȟ\n\nU+022x	Ƞ	ȡ	Ȣ	ȣ	Ȥ	ȥ	Ȧ	ȧ	Ȩ	ȩ	Ȫ	ȫ	Ȭ	ȭ	Ȯ	ȯ\n\nU+023x	Ȱ	ȱ	Ȳ	ȳ	ȴ	ȵ	ȶ	ȷ	ȸ	ȹ	Ⱥ	Ȼ	ȼ	Ƚ	Ⱦ	ȿ\n\nU+024x	ɀ	Ɂ	ɂ	Ƀ	Ʉ	Ʌ	Ɇ	ɇ	Ɉ	ɉ	Ɋ	ɋ	Ɍ	ɍ	Ɏ	ɏ"
-    (start 1 197) (end 146 293) (layer "F.SilkS") (tstamp 63463b25-f814-497a-a043-f6d8992dc5bb)
+  (gr_text_box "		0	1	2	3	4	5	6	7	8	9	A	B	C	D	E	F\n\nU+018x	ƀ	Ɓ	Ƃ	ƃ	Ƅ	ƅ	Ɔ	Ƈ	ƈ	Ɖ	Ɗ	Ƌ	ƌ	ƍ	Ǝ	Ə\n\nU+019x	Ɛ	Ƒ	ƒ	Ɠ	Ɣ	ƕ	Ɩ	Ɨ	Ƙ	ƙ	ƚ	ƛ	Ɯ	Ɲ	ƞ	Ɵ\n\nU+01Ax	Ơ	ơ	Ƣ	ƣ	Ƥ	ƥ	Ʀ	Ƨ	ƨ	Ʃ	ƪ	ƫ	Ƭ	ƭ	Ʈ	Ư\n\nU+01Bx	ư	Ʊ	Ʋ	Ƴ	ƴ	Ƶ	ƶ	Ʒ	Ƹ	ƹ	ƺ	ƻ	Ƽ	ƽ	ƾ	ƿ\n\nU+01Cx	ǀ	ǁ	ǂ	ǃ	Ǆ	ǅ	ǆ	Ǉ	ǈ	ǉ	Ǌ	ǋ	ǌ	Ǎ	ǎ	Ǐ\n\nU+01Dx	ǐ	Ǒ	ǒ	Ǔ	ǔ	Ǖ	ǖ	Ǘ	ǘ	Ǚ	ǚ	Ǜ	ǜ	ǝ	Ǟ	ǟ\n\nU+01Ex	Ǡ	ǡ	Ǣ	ǣ	Ǥ	ǥ	Ǧ	ǧ	Ǩ	ǩ	Ǫ	ǫ	Ǭ	ǭ	Ǯ	ǯ\n\nU+01Fx	ǰ	Ǳ	ǲ	ǳ	Ǵ	ǵ	Ƕ	Ƿ	Ǹ	ǹ	Ǻ	ǻ	Ǽ	ǽ	Ǿ	ǿ\n\nU+020x	Ȁ	ȁ	Ȃ	ȃ	Ȅ	ȅ	Ȇ	ȇ	Ȉ	ȉ	Ȋ	ȋ	Ȍ	ȍ	Ȏ	ȏ\n\nU+021x	Ȑ	ȑ	Ȓ	ȓ	Ȕ	ȕ	Ȗ	ȗ	Ș	ș	Ț	ț	Ȝ	ȝ	Ȟ	ȟ\n\nU+022x	Ƞ	ȡ	Ȣ	ȣ	Ȥ	ȥ	Ȧ	ȧ	Ȩ	ȩ	Ȫ	ȫ	Ȭ	ȭ	Ȯ	ȯ\n\nU+023x	Ȱ	ȱ	Ȳ	ȳ	ȴ	ȵ	ȶ	ȷ	ȸ	ȹ	Ⱥ	Ȼ	ȼ	Ƚ	Ⱦ	ȿ\n\nU+024x	ɀ	Ɂ	ɂ	Ƀ	Ʉ	Ʌ	Ɇ	ɇ	Ɉ	ɉ	Ɋ	ɋ	Ɍ	ɍ	Ɏ	ɏ"
+    (start 1 204) (end 146 293) (layer "F.SilkS") (tstamp 63463b25-f814-497a-a043-f6d8992dc5bb)
       (effects (font (size 2 2) (thickness 0.3)) (justify left top))
   )
-  (gr_text_box "Halfwidth and Fullwidth Forms\n\n		0	1	2	3	4	5	6	7	8	9	A	B	C	D	E	F\n\nU+FF0x		！	＂	＃	＄	％	＆	＇	（	）	＊	＋	，	－	．	／\n\nU+FF1x	０	１	２	３	４	５	６	７	８	９	：	；	＜	＝	＞	？\n\nU+FF2x	＠	Ａ	Ｂ	Ｃ	Ｄ	Ｅ	Ｆ	Ｇ	Ｈ	Ｉ	Ｊ	Ｋ	Ｌ	Ｍ	Ｎ	Ｏ\n\nU+FF3x	Ｐ	Ｑ	Ｒ	Ｓ	Ｔ	Ｕ	Ｖ	Ｗ	Ｘ	Ｙ	Ｚ	［	＼	］	＾	＿\n\nU+FF4x	｀	ａ	ｂ	ｃ	ｄ	ｅ	ｆ	ｇ	ｈ	ｉ	ｊ	ｋ	ｌ	ｍ	ｎ	ｏ\n\nU+FF5x	ｐ	ｑ	ｒ	ｓ	ｔ	ｕ	ｖ	ｗ	ｘ	ｙ	ｚ	｛	｜	｝	～	｟\n\nU+FF6x	｠	｡	｢	｣	､	･	ｦ	ｧ	ｨ	ｩ	ｪ	ｫ	ｬ	ｭ	ｮ	ｯ\n\nU+FF7x	ｰ	ｱ	ｲ	ｳ	ｴ	ｵ	ｶ	ｷ	ｸ	ｹ	ｺ	ｻ	ｼ	ｽ	ｾ	ｿ\n\nU+FF8x	ﾀ	ﾁ	ﾂ	ﾃ	ﾄ	ﾅ	ﾆ	ﾇ	ﾈ	ﾉ	ﾊ	ﾋ	ﾌ	ﾍ	ﾎ	ﾏ\n\nU+FF9x	ﾐ	ﾑ	ﾒ	ﾓ	ﾔ	ﾕ	ﾖ	ﾗ	ﾘ	ﾙ	ﾚ	ﾛ	ﾜ	ﾝ	ﾞ	ﾟ\n\nU+FFAx	HF	ﾡ	ﾢ	ﾣ	ﾤ	ﾥ	ﾦ	ﾧ	ﾨ	ﾩ	ﾪ	ﾫ	ﾬ	ﾭ	ﾮ	ﾯ\n\nU+FFBx	ﾰ	ﾱ	ﾲ	ﾳ	ﾴ	ﾵ	ﾶ	ﾷ	ﾸ	ﾹ	ﾺ	ﾻ	ﾼ	ﾽ	ﾾ	\n\nU+FFCx			ￂ	ￃ	ￄ	ￅ	ￆ	ￇ			ￊ	ￋ	ￌ	ￍ	ￎ	ￏ\n\nU+FFDx			ￒ	ￓ	ￔ	ￕ	ￖ	ￗ			ￚ	ￛ	ￜ			\n\nU+FFEx	￠	￡	￢	￣	￤	￥	￦		￨	￩	￪	￫	￬	￭	￮	"
-    (start 1 389) (end 145 497) (layer "F.SilkS") (tstamp 79b1b5f2-619a-47f6-badf-99d10336121d)
+  (gr_text_box "		0	1	2	3	4	5	6	7	8	9	A	B	C	D	E	F\n\nU+FF0x		！	＂	＃	＄	％	＆	＇	（	）	＊	＋	，	－	．	／\n\nU+FF1x	０	１	２	３	４	５	６	７	８	９	：	；	＜	＝	＞	？\n\nU+FF2x	＠	Ａ	Ｂ	Ｃ	Ｄ	Ｅ	Ｆ	Ｇ	Ｈ	Ｉ	Ｊ	Ｋ	Ｌ	Ｍ	Ｎ	Ｏ\n\nU+FF3x	Ｐ	Ｑ	Ｒ	Ｓ	Ｔ	Ｕ	Ｖ	Ｗ	Ｘ	Ｙ	Ｚ	［	＼	］	＾	＿\n\nU+FF4x	｀	ａ	ｂ	ｃ	ｄ	ｅ	ｆ	ｇ	ｈ	ｉ	ｊ	ｋ	ｌ	ｍ	ｎ	ｏ\n\nU+FF5x	ｐ	ｑ	ｒ	ｓ	ｔ	ｕ	ｖ	ｗ	ｘ	ｙ	ｚ	｛	｜	｝	～	｟\n\nU+FF6x	｠	｡	｢	｣	､	･	ｦ	ｧ	ｨ	ｩ	ｪ	ｫ	ｬ	ｭ	ｮ	ｯ\n\nU+FF7x	ｰ	ｱ	ｲ	ｳ	ｴ	ｵ	ｶ	ｷ	ｸ	ｹ	ｺ	ｻ	ｼ	ｽ	ｾ	ｿ\n\nU+FF8x	ﾀ	ﾁ	ﾂ	ﾃ	ﾄ	ﾅ	ﾆ	ﾇ	ﾈ	ﾉ	ﾊ	ﾋ	ﾌ	ﾍ	ﾎ	ﾏ\n\nU+FF9x	ﾐ	ﾑ	ﾒ	ﾓ	ﾔ	ﾕ	ﾖ	ﾗ	ﾘ	ﾙ	ﾚ	ﾛ	ﾜ	ﾝ	ﾞ	ﾟ\n\nU+FFAx	HF	ﾡ	ﾢ	ﾣ	ﾤ	ﾥ	ﾦ	ﾧ	ﾨ	ﾩ	ﾪ	ﾫ	ﾬ	ﾭ	ﾮ	ﾯ\n\nU+FFBx	ﾰ	ﾱ	ﾲ	ﾳ	ﾴ	ﾵ	ﾶ	ﾷ	ﾸ	ﾹ	ﾺ	ﾻ	ﾼ	ﾽ	ﾾ	\n\nU+FFCx			ￂ	ￃ	ￄ	ￅ	ￆ	ￇ			ￊ	ￋ	ￌ	ￍ	ￎ	ￏ\n\nU+FFDx			ￒ	ￓ	ￔ	ￕ	ￖ	ￗ			ￚ	ￛ	ￜ			\n\nU+FFEx	￠	￡	￢	￣	￤	￥	￦		￨	￩	￪	￫	￬	￭	￮	"
+    (start 1 396) (end 145 497) (layer "F.SilkS") (tstamp 79b1b5f2-619a-47f6-badf-99d10336121d)
       (effects (font (size 2 2) (thickness 0.3)) (justify left top))
   )
-  (gr_text_box "Arrows\n\n		0	1	2	3	4	5	6	7	8	9	A	B	C	D	E	F\n\nU+219x	←	↑	→	↓	↔	↕	↖	↗	↘	↙	↚	↛	↜	↝	↞	↟\n\nU+21Ax	↠	↡	↢	↣	↤	↥	↦	↧	↨	↩	↪	↫	↬	↭	↮	↯\n\nU+21Bx	↰	↱	↲	↳	↴	↵	↶	↷	↸	↹	↺	↻	↼	↽	↾	↿\n\nU+21Cx	⇀	⇁	⇂	⇃	⇄	⇅	⇆	⇇	⇈	⇉	⇊	⇋	⇌	⇍	⇎	⇏\n\nU+21Dx	⇐	⇑	⇒	⇓	⇔	⇕	⇖	⇗	⇘	⇙	⇚	⇛	⇜	⇝	⇞	⇟\n\nU+21Ex	⇠	⇡	⇢	⇣	⇤	⇥	⇦	⇧	⇨	⇩	⇪	⇫	⇬	⇭	⇮	⇯\n\nU+21Fx	⇰	⇱	⇲	⇳	⇴	⇵	⇶	⇷	⇸	⇹	⇺	⇻	⇼	⇽	⇾	⇿"
-    (start 154 121.5) (end 298 178.5) (layer "F.SilkS") (tstamp 82844a99-ba84-4367-9402-5721984fea57)
+  (gr_text_box "		0	1	2	3	4	5	6	7	8	9	A	B	C	D	E	F\n\nU+219x	←	↑	→	↓	↔	↕	↖	↗	↘	↙	↚	↛	↜	↝	↞	↟\n\nU+21Ax	↠	↡	↢	↣	↤	↥	↦	↧	↨	↩	↪	↫	↬	↭	↮	↯\n\nU+21Bx	↰	↱	↲	↳	↴	↵	↶	↷	↸	↹	↺	↻	↼	↽	↾	↿\n\nU+21Cx	⇀	⇁	⇂	⇃	⇄	⇅	⇆	⇇	⇈	⇉	⇊	⇋	⇌	⇍	⇎	⇏\n\nU+21Dx	⇐	⇑	⇒	⇓	⇔	⇕	⇖	⇗	⇘	⇙	⇚	⇛	⇜	⇝	⇞	⇟\n\nU+21Ex	⇠	⇡	⇢	⇣	⇤	⇥	⇦	⇧	⇨	⇩	⇪	⇫	⇬	⇭	⇮	⇯\n\nU+21Fx	⇰	⇱	⇲	⇳	⇴	⇵	⇶	⇷	⇸	⇹	⇺	⇻	⇼	⇽	⇾	⇿"
+    (start 154 136) (end 298 186) (layer "F.SilkS") (tstamp 82844a99-ba84-4367-9402-5721984fea57)
       (effects (font (size 2 2) (thickness 0.3)) (justify left top))
   )
-  (gr_text_box "Phonetic Extensions\n\n		0	1	2	3	4	5	6	7	8	9	A	B	C	D	E	F\n\nU+1D0x	ᴀ	ᴁ	ᴂ	ᴃ	ᴄ	ᴅ	ᴆ	ᴇ	ᴈ	ᴉ	ᴊ	ᴋ	ᴌ	ᴍ	ᴎ	ᴏ\n\nU+1D1x	ᴐ	ᴑ	ᴒ	ᴓ	ᴔ	ᴕ	ᴖ	ᴗ	ᴘ	ᴙ	ᴚ	ᴛ	ᴜ	ᴝ	ᴞ	ᴟ\n\nU+1D2x	ᴠ	ᴡ	ᴢ	ᴣ	ᴤ	ᴥ	ᴦ	ᴧ	ᴨ	ᴩ	ᴪ	ᴫ	ᴬ	ᴭ	ᴮ	ᴯ\n\nU+1D3x	ᴰ	ᴱ	ᴲ	ᴳ	ᴴ	ᴵ	ᴶ	ᴷ	ᴸ	ᴹ	ᴺ	ᴻ	ᴼ	ᴽ	ᴾ	ᴿ\n\nU+1D4x	ᵀ	ᵁ	ᵂ	ᵃ	ᵄ	ᵅ	ᵆ	ᵇ	ᵈ	ᵉ	ᵊ	ᵋ	ᵌ	ᵍ	ᵎ	ᵏ\n\nU+1D5x	ᵐ	ᵑ	ᵒ	ᵓ	ᵔ	ᵕ	ᵖ	ᵗ	ᵘ	ᵙ	ᵚ	ᵛ	ᵜ	ᵝ	ᵞ	ᵟ\n\nU+1D6x	ᵠ	ᵡ	ᵢ	ᵣ	ᵤ	ᵥ	ᵦ	ᵧ	ᵨ	ᵩ	ᵪ	ᵫ	ᵬ	ᵭ	ᵮ	ᵯ\n\nU+1D7x	ᵰ	ᵱ	ᵲ	ᵳ	ᵴ	ᵵ	ᵶ	ᵷ	ᵸ	ᵹ	ᵺ	ᵻ	ᵼ	ᵽ	ᵾ	ᵿ"
-    (start 307 367) (end 451 430) (layer "F.SilkS") (tstamp 921f7b57-d049-4279-9356-f88656274328)
+  (gr_text_box "		0	1	2	3	4	5	6	7	8	9	A	B	C	D	E	F\n\nU+1D0x	ᴀ	ᴁ	ᴂ	ᴃ	ᴄ	ᴅ	ᴆ	ᴇ	ᴈ	ᴉ	ᴊ	ᴋ	ᴌ	ᴍ	ᴎ	ᴏ\n\nU+1D1x	ᴐ	ᴑ	ᴒ	ᴓ	ᴔ	ᴕ	ᴖ	ᴗ	ᴘ	ᴙ	ᴚ	ᴛ	ᴜ	ᴝ	ᴞ	ᴟ\n\nU+1D2x	ᴠ	ᴡ	ᴢ	ᴣ	ᴤ	ᴥ	ᴦ	ᴧ	ᴨ	ᴩ	ᴪ	ᴫ	ᴬ	ᴭ	ᴮ	ᴯ\n\nU+1D3x	ᴰ	ᴱ	ᴲ	ᴳ	ᴴ	ᴵ	ᴶ	ᴷ	ᴸ	ᴹ	ᴺ	ᴻ	ᴼ	ᴽ	ᴾ	ᴿ\n\nU+1D4x	ᵀ	ᵁ	ᵂ	ᵃ	ᵄ	ᵅ	ᵆ	ᵇ	ᵈ	ᵉ	ᵊ	ᵋ	ᵌ	ᵍ	ᵎ	ᵏ\n\nU+1D5x	ᵐ	ᵑ	ᵒ	ᵓ	ᵔ	ᵕ	ᵖ	ᵗ	ᵘ	ᵙ	ᵚ	ᵛ	ᵜ	ᵝ	ᵞ	ᵟ\n\nU+1D6x	ᵠ	ᵡ	ᵢ	ᵣ	ᵤ	ᵥ	ᵦ	ᵧ	ᵨ	ᵩ	ᵪ	ᵫ	ᵬ	ᵭ	ᵮ	ᵯ\n\nU+1D7x	ᵰ	ᵱ	ᵲ	ᵳ	ᵴ	ᵵ	ᵶ	ᵷ	ᵸ	ᵹ	ᵺ	ᵻ	ᵼ	ᵽ	ᵾ	ᵿ"
+    (start 307 376) (end 451 432) (layer "F.SilkS") (tstamp 921f7b57-d049-4279-9356-f88656274328)
       (effects (font (size 2 2) (thickness 0.3)) (justify left top))
   )
-  (gr_text_box "Latin1 Supplement\n\n		0	1	2	3	4	5	6	7	8	9	A	B	C	D	E	F\n\nU+00Ax	NSP	¡	¢	£	¤	¥	¦	§	¨	©	ª	«	¬	SHY	®	¯\n\nU+00Bx	°	±	²	³	'	µ	¶	·	¸	¹	º	»	¼	½	¾	¿\n\nU+00Cx	À	Á	Â	Ã	Ä	Å	Æ	Ç	È	É	Ê	Ë	Ì	Í	Î	Ï\n\nU+00Dx	Ð	Ñ	Ò	Ó	Ô	Õ	Ö	×	Ø	Ù	Ú	Û	Ü	Ý	Þ	ß\n\nU+00Ex	à	á	â	ã	ä	å	æ	ç	è	é	ê	ë	ì	í	î	ï\n\nU+00Fx	ð	ñ	ò	ó	ô	õ	ö	÷	ø	ù	ú	û	ü	ý	þ	ÿ"
-    (start 1 72) (end 146 123) (layer "F.SilkS") (tstamp ad176a60-58b9-4a61-9713-512ca8f18d7a)
+  (gr_text_box "		0	1	2	3	4	5	6	7	8	9	A	B	C	D	E	F\n\nU+00Ax	NSP	¡	¢	£	¤	¥	¦	§	¨	©	ª	«	¬	SHY	®	¯\n\nU+00Bx	°	±	²	³	'	µ	¶	·	¸	¹	º	»	¼	½	¾	¿\n\nU+00Cx	À	Á	Â	Ã	Ä	Å	Æ	Ç	È	É	Ê	Ë	Ì	Í	Î	Ï\n\nU+00Dx	Ð	Ñ	Ò	Ó	Ô	Õ	Ö	×	Ø	Ù	Ú	Û	Ü	Ý	Þ	ß\n\nU+00Ex	à	á	â	ã	ä	å	æ	ç	è	é	ê	ë	ì	í	î	ï\n\nU+00Fx	ð	ñ	ò	ó	ô	õ	ö	÷	ø	ù	ú	û	ü	ý	þ	ÿ"
+    (start 1 79) (end 146 123) (layer "F.SilkS") (tstamp ad176a60-58b9-4a61-9713-512ca8f18d7a)
       (effects (font (size 2 2) (thickness 0.3)) (justify left top))
   )
-  (gr_text_box "Cyrillic\n\n 		0	1	2	3	4	5	6	7	8	9	A	B	C	D	E	F\n\nU+040x	Ѐ	Ё	Ђ	Ѓ	Є	Ѕ	І	Ї	Ј	Љ	Њ	Ћ	Ќ	Ѝ	Ў	Џ\n\nU+041x	А	Б	В	Г	Д	Е	Ж	З	И	Й	К	Л	М	Н	О	П\n\nU+042x	Р	С	Т	У	Ф	Х	Ц	Ч	Ш	Щ	Ъ	Ы	Ь	Э	Ю	Я\n\nU+043x	а	б	в	г	д	е	ж	з	и	й	к	л	м	н	о	п\n\nU+044x	р	с	т	у	ф	х	ц	ч	ш	щ	ъ	ы	ь	э	ю	я\n\nU+045x	ѐ	ё	ђ	ѓ	є	ѕ	і	ї	ј	љ	њ	ћ	ќ	ѝ	ў	џ\n\nU+046x	Ѡ	ѡ	Ѣ	ѣ	Ѥ	ѥ	Ѧ	ѧ	Ѩ	ѩ	Ѫ	ѫ	Ѭ	ѭ	Ѯ	ѯ\n\nU+047x	Ѱ	ѱ	Ѳ	ѳ	Ѵ	ѵ	Ѷ	ѷ	Ѹ	ѹ	Ѻ	ѻ	Ѽ	ѽ	Ѿ	ѿ\n\nU+048x	Ҁ	ҁ	҂	◌҃	◌҄	◌҅	◌҆	◌҇	◌҈	◌҉	Ҋ	ҋ	Ҍ	ҍ	Ҏ	ҏ\n\nU+049x	Ґ	ґ	Ғ	ғ	Ҕ	ҕ	Җ	җ	Ҙ	ҙ	Қ	қ	Ҝ	ҝ	Ҟ	ҟ\n\nU+04Ax	Ҡ	ҡ	Ң	ң	Ҥ	ҥ	Ҧ	ҧ	Ҩ	ҩ	Ҫ	ҫ	Ҭ	ҭ	Ү	ү\n\nU+04Bx	Ұ	ұ	Ҳ	ҳ	Ҵ	ҵ	Ҷ	ҷ	Ҹ	ҹ	Һ	һ	Ҽ	ҽ	Ҿ	ҿ\n\nU+04Cx	Ӏ	Ӂ	ӂ	Ӄ	ӄ	Ӆ	ӆ	Ӈ	ӈ	Ӊ	ӊ	Ӌ	ӌ	Ӎ	ӎ	ӏ\n\nU+04Dx	Ӑ	ӑ	Ӓ	ӓ	Ӕ	ӕ	Ӗ	ӗ	Ә	ә	Ӛ	ӛ	Ӝ	ӝ	Ӟ	ӟ\n\nU+04Ex	Ӡ	ӡ	Ӣ	ӣ	Ӥ	ӥ	Ӧ	ӧ	Ө	ө	Ӫ	ӫ	Ӭ	ӭ	Ӯ	ӯ\n\nU+04Fx	Ӱ	ӱ	Ӳ	ӳ	Ӵ	ӵ	Ӷ	ӷ	Ӹ	ӹ	Ӻ	ӻ	Ӽ	ӽ	Ӿ	ӿ"
-    (start 307 211) (end 451 327) (layer "F.SilkS") (tstamp ad96964a-7ff5-4070-9d4b-ed82cc239925)
+  (gr_text_box " 		0	1	2	3	4	5	6	7	8	9	A	B	C	D	E	F\n\nU+040x	Ѐ	Ё	Ђ	Ѓ	Є	Ѕ	І	Ї	Ј	Љ	Њ	Ћ	Ќ	Ѝ	Ў	Џ\n\nU+041x	А	Б	В	Г	Д	Е	Ж	З	И	Й	К	Л	М	Н	О	П\n\nU+042x	Р	С	Т	У	Ф	Х	Ц	Ч	Ш	Щ	Ъ	Ы	Ь	Э	Ю	Я\n\nU+043x	а	б	в	г	д	е	ж	з	и	й	к	л	м	н	о	п\n\nU+044x	р	с	т	у	ф	х	ц	ч	ш	щ	ъ	ы	ь	э	ю	я\n\nU+045x	ѐ	ё	ђ	ѓ	є	ѕ	і	ї	ј	љ	њ	ћ	ќ	ѝ	ў	џ\n\nU+046x	Ѡ	ѡ	Ѣ	ѣ	Ѥ	ѥ	Ѧ	ѧ	Ѩ	ѩ	Ѫ	ѫ	Ѭ	ѭ	Ѯ	ѯ\n\nU+047x	Ѱ	ѱ	Ѳ	ѳ	Ѵ	ѵ	Ѷ	ѷ	Ѹ	ѹ	Ѻ	ѻ	Ѽ	ѽ	Ѿ	ѿ\n\nU+048x	Ҁ	ҁ	҂	◌҃	◌҄	◌҅	◌҆	◌҇	◌҈	◌҉	Ҋ	ҋ	Ҍ	ҍ	Ҏ	ҏ\n\nU+049x	Ґ	ґ	Ғ	ғ	Ҕ	ҕ	Җ	җ	Ҙ	ҙ	Қ	қ	Ҝ	ҝ	Ҟ	ҟ\n\nU+04Ax	Ҡ	ҡ	Ң	ң	Ҥ	ҥ	Ҧ	ҧ	Ҩ	ҩ	Ҫ	ҫ	Ҭ	ҭ	Ү	ү\n\nU+04Bx	Ұ	ұ	Ҳ	ҳ	Ҵ	ҵ	Ҷ	ҷ	Ҹ	ҹ	Һ	һ	Ҽ	ҽ	Ҿ	ҿ\n\nU+04Cx	Ӏ	Ӂ	ӂ	Ӄ	ӄ	Ӆ	ӆ	Ӈ	ӈ	Ӊ	ӊ	Ӌ	ӌ	Ӎ	ӎ	ӏ\n\nU+04Dx	Ӑ	ӑ	Ӓ	ӓ	Ӕ	ӕ	Ӗ	ӗ	Ә	ә	Ӛ	ӛ	Ӝ	ӝ	Ӟ	ӟ\n\nU+04Ex	Ӡ	ӡ	Ӣ	ӣ	Ӥ	ӥ	Ӧ	ӧ	Ө	ө	Ӫ	ӫ	Ӭ	ӭ	Ӯ	ӯ\n\nU+04Fx	Ӱ	ӱ	Ӳ	ӳ	Ӵ	ӵ	Ӷ	ӷ	Ӹ	ӹ	Ӻ	ӻ	Ӽ	ӽ	Ӿ	ӿ"
+    (start 307 218) (end 451 327) (layer "F.SilkS") (tstamp ad96964a-7ff5-4070-9d4b-ed82cc239925)
       (effects (font (size 2 2) (thickness 0.3)) (justify left top))
   )
-  (gr_text_box "Latin Extended-A\n\n		0	1	2	3	4	5	6	7	8	9	A	B	C	D	E	F\n\nU+010x	Ā	ā	Ă	ă	Ą	ą	Ć	ć	Ĉ	ĉ	Ċ	ċ	Č	č	Ď	ď\n\nU+011x	Đ	đ	Ē	ē	Ĕ	ĕ	Ė	ė	Ę	ę	Ě	ě	Ĝ	ĝ	Ğ	ğ\n\nU+012x	Ġ	ġ	Ģ	ģ	Ĥ	ĥ	Ħ	ħ	Ĩ	ĩ	Ī	ī	Ĭ	ĭ	Į	į\n\nU+013x	İ	ı	Ĳ	ĳ	Ĵ	ĵ	Ķ	ķ	ĸ	Ĺ	ĺ	Ļ	ļ	Ľ	ľ	Ŀ\n\nU+014x	ŀ	Ł	ł	Ń	ń	Ņ	ņ	Ň	ň	ŉ	Ŋ	ŋ	Ō	ō	Ŏ	ŏ\n\nU+015x	Ő	ő	Œ	œ	Ŕ	ŕ	Ŗ	ŗ	Ř	ř	Ś	ś	Ŝ	ŝ	Ş	ş\n\nU+016x	Š	š	Ţ	ţ	Ť	ť	Ŧ	ŧ	Ũ	ũ	Ū	ū	Ŭ	ŭ	Ů	ů\n\nU+017x	Ű	ű	Ų	ų	Ŵ	ŵ	Ŷ	ŷ	Ÿ	Ź	ź	Ż	ż	Ž	ž	ſ"
-    (start 1 128) (end 146 192) (layer "F.SilkS") (tstamp bc7e162c-eb5e-451a-b161-31838bdc4e42)
+  (gr_text_box "		0	1	2	3	4	5	6	7	8	9	A	B	C	D	E	F\n\nU+010x	Ā	ā	Ă	ă	Ą	ą	Ć	ć	Ĉ	ĉ	Ċ	ċ	Č	č	Ď	ď\n\nU+011x	Đ	đ	Ē	ē	Ĕ	ĕ	Ė	ė	Ę	ę	Ě	ě	Ĝ	ĝ	Ğ	ğ\n\nU+012x	Ġ	ġ	Ģ	ģ	Ĥ	ĥ	Ħ	ħ	Ĩ	ĩ	Ī	ī	Ĭ	ĭ	Į	į\n\nU+013x	İ	ı	Ĳ	ĳ	Ĵ	ĵ	Ķ	ķ	ĸ	Ĺ	ĺ	Ļ	ļ	Ľ	ľ	Ŀ\n\nU+014x	ŀ	Ł	ł	Ń	ń	Ņ	ņ	Ň	ň	ŉ	Ŋ	ŋ	Ō	ō	Ŏ	ŏ\n\nU+015x	Ő	ő	Œ	œ	Ŕ	ŕ	Ŗ	ŗ	Ř	ř	Ś	ś	Ŝ	ŝ	Ş	ş\n\nU+016x	Š	š	Ţ	ţ	Ť	ť	Ŧ	ŧ	Ũ	ũ	Ū	ū	Ŭ	ŭ	Ů	ů\n\nU+017x	Ű	ű	Ų	ų	Ŵ	ŵ	Ŷ	ŷ	Ÿ	Ź	ź	Ż	ż	Ž	ž	ſ"
+    (start 1 135) (end 146 192) (layer "F.SilkS") (tstamp bc7e162c-eb5e-451a-b161-31838bdc4e42)
       (effects (font (size 2 2) (thickness 0.3)) (justify left top))
   )
-  (gr_text_box "Greek and Coptic\n\n 		0	1	2	3	4	5	6	7	8	9	A	B	C	D	E	F\n\nU+037x	Ͱ	ͱ	Ͳ	ͳ	ʹ	͵	Ͷ	ͷ			ͺ	ͻ	ͼ	ͽ	;	Ϳ\n\nU+038x					΄	΅	Ά	·	Έ	Ή	Ί		Ό		Ύ	Ώ\n\nU+039x	ΐ	Α	Β	Γ	Δ	Ε	Ζ	Η	Θ	Ι	Κ	Λ	Μ	Ν	Ξ	Ο\n\nU+03Ax	Π	Ρ		Σ	Τ	Υ	Φ	Χ	Ψ	Ω	Ϊ	Ϋ	ά	έ	ή	ί\n\nU+03Bx	ΰ	α	β	γ	δ	ε	ζ	η	θ	ι	κ	λ	μ	ν	ξ	ο\n\nU+03Cx	π	ρ	ς	σ	τ	υ	φ	χ	ψ	ω	ϊ	ϋ	ό	ύ	ώ	Ϗ\n\nU+03Dx	ϐ	ϑ	ϒ	ϓ	ϔ	ϕ	ϖ	ϗ	Ϙ	ϙ	Ϛ	ϛ	Ϝ	ϝ	Ϟ	ϟ\n\nU+03Ex	Ϡ	ϡ	Ϣ	ϣ	Ϥ	ϥ	Ϧ	ϧ	Ϩ	ϩ	Ϫ	ϫ	Ϭ	ϭ	Ϯ	ϯ\n\nU+03Fx	ϰ	ϱ	ϲ	ϳ	ϴ	ϵ	϶	Ϸ	ϸ	Ϲ	Ϻ	ϻ	ϼ	Ͻ	Ͼ	Ͽ"
-    (start 307 16) (end 451 86) (layer "F.SilkS") (tstamp c64d20d1-3817-40d7-908a-75a97b4ecf2a)
+  (gr_text_box " 		0	1	2	3	4	5	6	7	8	9	A	B	C	D	E	F\n\nU+037x	Ͱ	ͱ	Ͳ	ͳ	ʹ	͵	Ͷ	ͷ			ͺ	ͻ	ͼ	ͽ	;	Ϳ\n\nU+038x					΄	΅	Ά	·	Έ	Ή	Ί		Ό		Ύ	Ώ\n\nU+039x	ΐ	Α	Β	Γ	Δ	Ε	Ζ	Η	Θ	Ι	Κ	Λ	Μ	Ν	Ξ	Ο\n\nU+03Ax	Π	Ρ		Σ	Τ	Υ	Φ	Χ	Ψ	Ω	Ϊ	Ϋ	ά	έ	ή	ί\n\nU+03Bx	ΰ	α	β	γ	δ	ε	ζ	η	θ	ι	κ	λ	μ	ν	ξ	ο\n\nU+03Cx	π	ρ	ς	σ	τ	υ	φ	χ	ψ	ω	ϊ	ϋ	ό	ύ	ώ	Ϗ\n\nU+03Dx	ϐ	ϑ	ϒ	ϓ	ϔ	ϕ	ϖ	ϗ	Ϙ	ϙ	Ϛ	ϛ	Ϝ	ϝ	Ϟ	ϟ\n\nU+03Ex	Ϡ	ϡ	Ϣ	ϣ	Ϥ	ϥ	Ϧ	ϧ	Ϩ	ϩ	Ϫ	ϫ	Ϭ	ϭ	Ϯ	ϯ\n\nU+03Fx	ϰ	ϱ	ϲ	ϳ	ϴ	ϵ	϶	Ϸ	ϸ	Ϲ	Ϻ	ϻ	ϼ	Ͻ	Ͼ	Ͽ"
+    (start 307 23) (end 451 86) (layer "F.SilkS") (tstamp c64d20d1-3817-40d7-908a-75a97b4ecf2a)
       (effects (font (size 2 2) (thickness 0.3)) (justify left top))
   )
-  (gr_text_box "Currency Symbols\n\n		0	1	2	3	4	5	6	7	8	9	A	B	C	D	E	F\n\nU+20Ax	₠	₡	₢	₣	₤	₥	₦	₧	₨	₩	₪	₫	€	₭	₮	₯\nU+20Bx	₰	₱	₲	₳	₴	₵	₶	₷	₸	₹	₺	₻	₼	₽	₾	₿\nU+20Cx	⃀															"
-    (start 154 93) (end 298 117) (layer "F.SilkS") (tstamp c825a59c-b8f1-46ea-a485-ef6b55c66949)
+  (gr_text_box "		0	1	2	3	4	5	6	7	8	9	A	B	C	D	E	F\n\nU+20Ax	₠	₡	₢	₣	₤	₥	₦	₧	₨	₩	₪	₫	€	₭	₮	₯\n\nU+20Bx	₰	₱	₲	₳	₴	₵	₶	₷	₸	₹	₺	₻	₼	₽	₾	₿\n\nU+20Cx	⃀															"
+    (start 154 100) (end 298 124) (layer "F.SilkS") (tstamp c825a59c-b8f1-46ea-a485-ef6b55c66949)
       (effects (font (size 2 2) (thickness 0.3)) (justify left top))
   )
-  (gr_text_box "Cyrillic Supplement\n\n 		0	1	2	3	4	5	6	7	8	9	A	B	C	D	E	F\n\nU+050x	Ԁ	ԁ	Ԃ	ԃ	Ԅ	ԅ	Ԇ	ԇ	Ԉ	ԉ	Ԋ	ԋ	Ԍ	ԍ	Ԏ	ԏ\n\nU+051x	Ԑ	ԑ	Ԓ	ԓ	Ԕ	ԕ	Ԗ	ԗ	Ԙ	ԙ	Ԛ	ԛ	Ԝ	ԝ	Ԟ	ԟ\n\nU+052x	Ԡ	ԡ	Ԣ	ԣ	Ԥ	ԥ	Ԧ	ԧ	Ԩ	ԩ	Ԫ	ԫ	Ԭ	ԭ	Ԯ	ԯ"
-    (start 307 332) (end 451 363) (layer "F.SilkS") (tstamp d20204fd-e319-4ef5-9a35-a9e0c8180bc3)
+  (gr_text_box " 		0	1	2	3	4	5	6	7	8	9	A	B	C	D	E	F\n\nU+050x	Ԁ	ԁ	Ԃ	ԃ	Ԅ	ԅ	Ԇ	ԇ	Ԉ	ԉ	Ԋ	ԋ	Ԍ	ԍ	Ԏ	ԏ\n\nU+051x	Ԑ	ԑ	Ԓ	ԓ	Ԕ	ԕ	Ԗ	ԗ	Ԙ	ԙ	Ԛ	ԛ	Ԝ	ԝ	Ԟ	ԟ\n\nU+052x	Ԡ	ԡ	Ԣ	ԣ	Ԥ	ԥ	Ԧ	ԧ	Ԩ	ԩ	Ԫ	ԫ	Ԭ	ԭ	Ԯ	ԯ"
+    (start 307 339) (end 451 363) (layer "F.SilkS") (tstamp d20204fd-e319-4ef5-9a35-a9e0c8180bc3)
       (effects (font (size 2 2) (thickness 0.3)) (justify left top))
   )
-  (gr_text_box "Mathematical Operators\n\n		0	1	2	3	4	5	6	7	8	9	A	B	C	D	E	F\n\nU+220x	∀	∁	∂	∃	∄	∅	∆	∇	∈	∉	∊	∋	∌	∍	∎	∏\n\nU+221x	∐	∑	−	∓	∔	∕	∖	∗	∘	∙	√	∛	∜	∝	∞	∟\n\nU+222x	∠	∡	∢	∣	∤	∥	∦	∧	∨	∩	∪	∫	∬	∭	∮	∯\n\nU+223x	∰	∱	∲	∳	∴	∵	∶	∷	∸	∹	∺	∻	∼	∽	∾	∿\n\nU+224x	≀	≁	≂	≃	≄	≅	≆	≇	≈	≉	≊	≋	≌	≍	≎	≏\n\nU+225x	≐	≑	≒	≓	≔	≕	≖	≗	≘	≙	≚	≛	≜	≝	≞	≟\n\nU+226x	≠	≡	≢	≣	≤	≥	≦	≧	≨	≩	≪	≫	≬	≭	≮	≯\n\nU+227x	≰	≱	≲	≳	≴	≵	≶	≷	≸	≹	≺	≻	≼	≽	≾	≿\n\nU+228x	⊀	⊁	⊂	⊃	⊄	⊅	⊆	⊇	⊈	⊉	⊊	⊋	⊌	⊍	⊎	⊏\n\nU+229x	⊐	⊑	⊒	⊓	⊔	⊕	⊖	⊗	⊘	⊙	⊚	⊛	⊜	⊝	⊞	⊟\n\nU+22Ax	⊠	⊡	⊢	⊣	⊤	⊥	⊦	⊧	⊨	⊩	⊪	⊫	⊬	⊭	⊮	⊯\n\nU+22Bx	⊰	⊱	⊲	⊳	⊴	⊵	⊶	⊷	⊸	⊹	⊺	⊻	⊼	⊽	⊾	⊿\n\nU+22Cx	⋀	⋁	⋂	⋃	⋄	⋅	⋆	⋇	⋈	⋉	⋊	⋋	⋌	⋍	⋎	⋏\n\nU+22Dx	⋐	⋑	⋒	⋓	⋔	⋕	⋖	⋗	⋘	⋙	⋚	⋛	⋜	⋝	⋞	⋟\n\nU+22Ex	⋠	⋡	⋢	⋣	⋤	⋥	⋦	⋧	⋨	⋩	⋪	⋫	⋬	⋭	⋮	⋯\n\nU+22Fx	⋰	⋱	⋲	⋳	⋴	⋵	⋶	⋷	⋸	⋹	⋺	⋻	⋼	⋽	⋾	⋿\n"
-    (start 154 183.5) (end 298 298.5) (layer "F.SilkS") (tstamp fb161f00-71ae-4f21-8c61-75d83c039e21)
+  (gr_text_box "		0	1	2	3	4	5	6	7	8	9	A	B	C	D	E	F\n\nU+220x	∀	∁	∂	∃	∄	∅	∆	∇	∈	∉	∊	∋	∌	∍	∎	∏\n\nU+221x	∐	∑	−	∓	∔	∕	∖	∗	∘	∙	√	∛	∜	∝	∞	∟\n\nU+222x	∠	∡	∢	∣	∤	∥	∦	∧	∨	∩	∪	∫	∬	∭	∮	∯\n\nU+223x	∰	∱	∲	∳	∴	∵	∶	∷	∸	∹	∺	∻	∼	∽	∾	∿\n\nU+224x	≀	≁	≂	≃	≄	≅	≆	≇	≈	≉	≊	≋	≌	≍	≎	≏\n\nU+225x	≐	≑	≒	≓	≔	≕	≖	≗	≘	≙	≚	≛	≜	≝	≞	≟\n\nU+226x	≠	≡	≢	≣	≤	≥	≦	≧	≨	≩	≪	≫	≬	≭	≮	≯\n\nU+227x	≰	≱	≲	≳	≴	≵	≶	≷	≸	≹	≺	≻	≼	≽	≾	≿\n\nU+228x	⊀	⊁	⊂	⊃	⊄	⊅	⊆	⊇	⊈	⊉	⊊	⊋	⊌	⊍	⊎	⊏\n\nU+229x	⊐	⊑	⊒	⊓	⊔	⊕	⊖	⊗	⊘	⊙	⊚	⊛	⊜	⊝	⊞	⊟\n\nU+22Ax	⊠	⊡	⊢	⊣	⊤	⊥	⊦	⊧	⊨	⊩	⊪	⊫	⊬	⊭	⊮	⊯\n\nU+22Bx	⊰	⊱	⊲	⊳	⊴	⊵	⊶	⊷	⊸	⊹	⊺	⊻	⊼	⊽	⊾	⊿\n\nU+22Cx	⋀	⋁	⋂	⋃	⋄	⋅	⋆	⋇	⋈	⋉	⋊	⋋	⋌	⋍	⋎	⋏\n\nU+22Dx	⋐	⋑	⋒	⋓	⋔	⋕	⋖	⋗	⋘	⋙	⋚	⋛	⋜	⋝	⋞	⋟\n\nU+22Ex	⋠	⋡	⋢	⋣	⋤	⋥	⋦	⋧	⋨	⋩	⋪	⋫	⋬	⋭	⋮	⋯\n\nU+22Fx	⋰	⋱	⋲	⋳	⋴	⋵	⋶	⋷	⋸	⋹	⋺	⋻	⋼	⋽	⋾	⋿\n"
+    (start 154 198) (end 298 306) (layer "F.SilkS") (tstamp fb161f00-71ae-4f21-8c61-75d83c039e21)
       (effects (font (size 2 2) (thickness 0.3)) (justify left top))
   )
 
   (group "" (id 0b20e96e-d0e2-4901-9fc9-6ccdb1e49c86)
     (members
       0b245f1b-57eb-4791-988e-a6b49aaee071
+      9f348cb8-7ec2-4992-a52d-ffdb5fb112aa
+      a323a296-9575-485c-aa72-b85f72cbd60c
       c825a59c-b8f1-46ea-a485-ef6b55c66949
       dcc9954e-d0d8-44d0-9e76-afb26545a040
       f0504c9a-0eb3-4018-bcea-fa51a75dbf0d
@@ -302,14 +390,18 @@
   )
   (group "" (id 10d16f79-7624-48bf-b5de-ba168742578a)
     (members
+      35715e6c-7917-457f-8fb2-08e4f56cf61b
       685305f9-8e6b-4b29-8d28-0e8f646c04c3
       ad176a60-58b9-4a61-9713-512ca8f18d7a
+      c3666b3c-3f74-4eca-8fe8-87584299c856
       c9720930-c4b4-41b5-bd50-0472350be66f
       c9dbd033-fd49-4bd0-9f65-a63827874272
     )
   )
   (group "" (id 137c8b54-da43-499b-a9c6-224504f467b2)
     (members
+      06354ab7-8dfc-4ffe-8481-2d0dc8bdfff7
+      571d5a04-6af0-4df7-b7da-a997c0f5890d
       9a4c298f-2f4f-4d1b-904a-1af2da3a8612
       c28b70f0-4775-46a4-90f6-91a95a6dbedc
       ebe4b9c4-6d13-4cb4-bd34-036741670b12
@@ -320,31 +412,39 @@
     (members
       5ff303cd-e5dc-4412-a345-d6bc188d28dc
       7926d689-2810-494b-8f4f-4dff4df6ce46
+      8b8419cc-51ad-4193-b152-7c848eb50a8b
       c594747b-c193-4d1b-89a2-784fc8dc4ca8
       d33df2be-2b89-4add-94d5-3cd9008ad940
+      f0461d1d-ba47-4699-9d8b-cf31f1403d5f
     )
   )
   (group "" (id 26254359-2a72-48fb-bf9a-b76fca45b32d)
     (members
       04e42a5c-04de-48cd-9832-cc3d6c685c29
+      0e6618aa-4ec1-4339-861e-2313f278ed39
       1012bffa-6249-454e-a013-6c7d7d255d84
       921f7b57-d049-4279-9356-f88656274328
       9395c996-8bcb-4413-8d98-0976a3571c09
+      e8da0dfe-d567-4000-84d5-c81390870e47
     )
   )
   (group "" (id 26b016fa-5430-4a3d-9350-f8a425adcde5)
     (members
       293a2a83-aa89-4ec8-8bb1-08f5e159929a
+      452e7f07-a074-49f5-b8aa-5c6424d14f4d
       6cb033f9-4b08-46cb-8e65-3960d5da00cf
       79b1b5f2-619a-47f6-badf-99d10336121d
       dde4956f-6543-4c3a-888d-dd8448ff5789
+      e5214835-f854-4294-8c52-1d8bf64630f8
     )
   )
   (group "" (id 3897026d-06b1-462e-88de-c3b5a5e1bffe)
     (members
       24e7623b-2951-48fb-8c74-279fc5a1c45a
+      52059398-0a0a-4b6e-9c45-9e8fbea33717
       56bea113-a0cf-4c3b-bf03-5b64c678974e
       5dd472e5-0d6d-4743-a308-7309a6e5726c
+      69ae845b-1738-4bf9-83d3-3b1066e85972
       830a7f4d-aa31-4210-bcd6-660805cb2988
     )
   )
@@ -353,19 +453,25 @@
       19322bf2-f165-41ca-a9a4-3e72cae8ee27
       3efa68c5-945f-43d3-9c6c-f6d798866237
       5dfa0cef-e4f1-4288-b7e9-b56bd5c04de4
+      9d3cc468-899f-45ac-b3df-da6e26ac1eb8
       c8a7189b-6122-42b9-aaf9-069ad8f8df2c
+      cb9635c6-e17b-47dd-9278-eae8aa624a23
     )
   )
   (group "" (id 77080d20-7dbb-40e9-8009-72fe85131f03)
     (members
+      2d7b8c22-9c47-4364-9aad-18bd9f6cd68d
       5534f6d2-ff0e-4ebf-ba5c-00a53f904439
       5773e85d-3e22-4831-99a1-efc79fa955a9
       84d42f44-7b8b-4db7-ad40-aab2f311ec1e
+      990f94b5-ce86-4aa7-87ff-aec574ada55d
       d20204fd-e319-4ef5-9a35-a9e0c8180bc3
     )
   )
   (group "" (id 7e93d43a-a84d-4ec8-91a4-9e577e1dfa8f)
     (members
+      97424f39-3dc6-44bb-b1ad-bafe470a9da3
+      989a74dd-8ac3-4233-a94c-12eef133a2a7
       a5bdbdbb-49a0-4e5f-9317-b53eed74a0f1
       c64d20d1-3817-40d7-908a-75a97b4ecf2a
       cb9de816-5712-47b7-84e6-c61183c61d04
@@ -377,52 +483,66 @@
       2fe74e0c-0993-42b5-af37-fcf52d555b97
       782bd9f8-f358-4afa-b43f-91ce517f8cfb
       912d8f41-91e9-4cff-9786-6861c854838b
+      bd65a577-6ca3-46b6-a432-2ba50261ee43
       f02d3fa0-5ad1-4fa4-8034-162ef8709773
+      f91df7e0-f514-4d0b-b821-b4bbb5a8325e
     )
   )
   (group "" (id a066bd08-c1c9-45d0-82e5-3bd7aa42693b)
     (members
       062eb624-f169-4f61-baad-15e83ef62e0c
+      0c27f07c-88b7-45cb-b00d-80c8494fad2c
       2427a9cf-8c87-4a80-b8c4-8ee136d6b315
       867089b2-f949-484e-ae48-1e503594104a
       a423fb14-61ea-47e2-ac91-ca59d855021e
+      a43997c7-128f-4ef1-9aa2-2f140275240c
     )
   )
   (group "" (id a4a2183d-36ad-4d3e-acf1-b168e9d06a77)
     (members
       0e99b76f-3023-42eb-a9eb-4fe5694f371e
+      18fab4df-5763-4b7c-a6fa-61e5dc0a938c
       1b861a3a-b762-4df7-8492-dd9bdaa7f8c8
       3d4d44f1-f166-4113-8019-7ff9c5375389
       82844a99-ba84-4367-9402-5721984fea57
+      e4dc132a-6cde-469d-9717-08219506568b
     )
   )
   (group "" (id b9250103-cedd-41a2-b810-95bf57ab4864)
     (members
       0f11fae4-4319-44cf-9c41-e773468949b8
       2d8eaaeb-ec9c-43e7-9a6e-c46d1c2f9112
+      479e906b-5b92-4819-9698-7a6ca8e2a629
       4d29987c-b16e-42c1-93a1-86c000e7bb43
       4dc97b43-4b00-4fb6-bd9c-c7c06abf2dc6
+      7ebd912b-8459-466e-83cf-6a83b5ee18a3
     )
   )
   (group "" (id bfb11545-280c-45e9-b437-c99ebf17871e)
     (members
       194406ab-eb86-498b-994e-1137fa3b7b6e
       5a729dda-98ea-4a19-aebe-19906547b758
+      933048d7-43ae-4dd2-8533-2da0e73f64e9
+      9641e331-7384-4a15-94d5-d5cad8431b2c
       9b0eea93-662b-4d70-9413-0a543b520692
       bc7e162c-eb5e-451a-b161-31838bdc4e42
     )
   )
   (group "" (id de47ccd5-a149-4930-beb6-182c2605de8f)
     (members
+      397ecbcf-8492-4373-ba03-c55b7cfada56
       63463b25-f814-497a-a043-f6d8992dc5bb
       ad2c8060-35f9-444c-ab71-848607fc3063
       dbd20878-c4eb-4789-a35e-ad8d04890b22
       e16d24a9-dbc7-48a3-bb04-356fb2346841
+      fcdec718-d580-47a9-ae83-4e2aa17ed05f
     )
   )
   (group "" (id f8b6e90c-8303-4a87-a758-f86a4a62b125)
     (members
+      19f8d5f4-0121-4815-8c27-92bbdd8e04b9
       2a98ef6d-016e-49c6-9505-a908858d9f8e
+      84c950e1-86b3-467d-9cd9-8b53747dbdd9
       9b360bc6-623b-4530-a29f-c60487e7aad6
       ad96964a-7ff5-4070-9d4b-ed82cc239925
       f1458d6d-a49b-499c-aad6-274b759a0b69
