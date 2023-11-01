@@ -24,14 +24,15 @@ The following [Unicode Blocks](https://en.wikipedia.org/wiki/Unicode_block) are 
 * [Geometric Shapes](https://en.wikipedia.org/wiki/Geometric_Shapes_(Unicode_block))
 * [Halfwidth and Fullwidth Forms](https://en.wikipedia.org/wiki/Halfwidth_and_Fullwidth_Forms_(Unicode_block))
 
-## Supported Characters Visualized
+## Character Rendering
 
-Below, you'll see an SVG image (generated from KiCad `File > Plot > SVG`) `F.Silkscreen` layer of the PCB.
+Here you'll find a rendering of all supported characters.
+generated from KiCad PCB Editor (`File > Plot > SVG` - `F.Silkscreen` layer).
 
-The Code blocks are ordered by their Unicode Block code range.
-
-You can also download the visualization in PDF and SVG formats here:
+You can download rendering files in PDF and SVG formats here:
 * [KiCad-Font-Characters-F_Silkscreen.pdf](export/KiCad-Font-Characters-F_Silkscreen.pdf)
 * [KiCad-Font-Characters-F_Silkscreen.svg](export/KiCad-Font-Characters-F_Silkscreen.svg)
+
+The rendering is divided into [Unicode Blocks](https://en.wikipedia.org/wiki/Unicode_block), grouped by [Unicode Script](https://en.wikipedia.org/wiki/Script_(Unicode)) (e.g. `Latin`, `Common`, `Greek`) and ordered by [Unicode Code Point](https://en.wikipedia.org/wiki/Code_point).
 
 ![KiCad-Font-Characters-F_Silkscreen.svg](export/KiCad-Font-Characters-F_Silkscreen.svg)
