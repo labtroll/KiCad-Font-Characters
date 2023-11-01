@@ -15,7 +15,13 @@ The following [Unicode Blocks](https://en.wikipedia.org/wiki/Unicode_block) are 
 * [Cyrillic](https://en.wikipedia.org/wiki/Cyrillic_(Unicode_block))
 * [Cyrillic Supplement](https://en.wikipedia.org/wiki/Cyrillic_Supplement)
 * [Phonetic Extensions](https://en.wikipedia.org/wiki/Phonetic_Extensions)
+* [Greek Extended](https://en.wikipedia.org/wiki/Greek_Extended)
+* [General Punctuation](https://en.wikipedia.org/wiki/General_Punctuation)
 * [Superscripts and Subscripts](https://en.wikipedia.org/wiki/Superscripts_and_Subscripts_(Unicode_block))
+* [Currency Symbols](https://en.wikipedia.org/wiki/Currency_Symbols_(Unicode_block))
+* [Arrows](https://en.wikipedia.org/wiki/Arrows_(Unicode_block))
+* [Mathematical Operators](https://en.wikipedia.org/wiki/Mathematical_Operators_(Unicode_block))
+* [Geometric Shapes](https://en.wikipedia.org/wiki/Geometric_Shapes_(Unicode_block))
 * [Halfwidth and Fullwidth Forms](https://en.wikipedia.org/wiki/Halfwidth_and_Fullwidth_Forms_(Unicode_block))
 
 ## Supported Characters Visualized
