@@ -29,9 +29,9 @@ The following [Unicode Blocks](https://en.wikipedia.org/wiki/Unicode_block) are 
 Here you'll find a rendering of all supported characters.
 generated from KiCad PCB Editor (`File > Plot... > SVG` - `F.Silkscreen` layer).
 
-You can download rendering files in PDF and SVG formats here:
-* [KiCad-Font-Characters-F_Silkscreen.pdf](export/KiCad-Font-Characters-F_Silkscreen.pdf)
-* [KiCad-Font-Characters-F_Silkscreen.svg](export/KiCad-Font-Characters-F_Silkscreen.svg)
+You can open/download the rendering files in PDF and SVG formats directly using these links:
+* [KiCad-Font-Characters-F_Silkscreen.pdf](https://raw.githubusercontent.com/labtroll/KiCad-Font-Characters/main/export/KiCad-Font-Characters-F_Silkscreen.pdf)
+* [KiCad-Font-Characters-F_Silkscreen.svg](https://raw.githubusercontent.com/labtroll/KiCad-Font-Characters/main/export/KiCad-Font-Characters-F_Silkscreen.svg)
 
 The rendering is divided into [Unicode Blocks](https://en.wikipedia.org/wiki/Unicode_block), grouped by [Unicode Script](https://en.wikipedia.org/wiki/Script_(Unicode)) (e.g. `Latin`, `Common`, `Greek`) and ordered by [Unicode Code Point](https://en.wikipedia.org/wiki/Code_point).
 
